@@ -1,0 +1,37 @@
+name: autotaxi_gijon
+description: App para practicar test AutoTaxi Gijón.
+
+publish_to: 'none'
+
+version: 1.0.0+1 # Añade versión (importante para actualizaciones)
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  provider: ^6.0.5 # Gestión de estado (opcional pero recomendado)
+  shared_preferences: ^2.2.2 # Para guardar progreso
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0 # Mejores prácticas de código
+  flutter_launcher_icons: ^0.13.1 # Paquete para cambiar iconos
+
+flutter_icons: # Configuración de iconos (nueva sección)
+  android: true
+  ios: true
+  image_path: "assets/iconos/icono_app.png" # Ruta a tu imagen (1024x1024px)
+  adaptive_icon_background: "#FFFFFF" # Fondo para iconos adaptativos (Android)
+  # adaptive_icon_foreground: "assets/iconos/icono_detalle.png" # Descomenta si usas icono adaptativo
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/preguntas.json
+    - assets/iconos/icono_app.png # Añade la ruta de tu icono
+    # - assets/iconos/icono_detalle.png # Descomenta si usas icono adaptativo

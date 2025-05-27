@@ -1,0 +1,4184 @@
+{
+    "preguntas": [
+        {
+            "id": 14,
+            "opcion1": "En el plazo de 30 días.",
+            "opcion2": "En el plazo de 60 días.",
+            "opcion3": "En el plazo de 3 meses.",
+            "opcion4": "En el plazo de 15 días.",
+            "pregunta": "El titular de la concesión de una licencia de Auto-Taxi vendrá obligado a poner en servicio el vehículo que amparará la misma:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 15,
+            "opcion1": "Únicamente podrá ir colocada en las puertas traseras.",
+            "opcion2": "Únicamente podrá ir colocada en las puertas delanteras.",
+            "opcion3": "Solo podrán utilizarse pegatinas de tamaño 45 x 45 cm.",
+            "opcion4": "Solo podrán utilizarse pegatinas de tamaño 50 x 50 cm.",
+            "pregunta": "La publicidad exterior del vehículo:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "normativa"
+        },
+        {
+            "id": 16,
+            "opcion1": "La Alcaldía.",
+            "opcion2": "El Concejal delegado del servicio.",
+            "opcion3": "Un Concejal necesariamente.",
+            "opcion4": "El secretario de la corporación.",
+            "pregunta": "¿Quién debe ser el juez instructor en el procedimiento sancionador?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 17,
+            "opcion1": "30 años.",
+            "opcion2": "20 años.",
+            "opcion3": "Indefinidamente.",
+            "opcion4": "50 años.",
+            "pregunta": "La duración de las licencias será de:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "normativa"
+        },
+        {
+            "id": 18,
+            "opcion1": "Apariencia sospechosa de los individuos.",
+            "opcion2": "Ser requerido en zona lejana del casco urbano.",
+            "opcion3": "Ser solicitado para transportar un número de personas superior al de las plazas autorizadas para el vehículo.",
+            "opcion4": "Todas son correctas.",
+            "pregunta": "¿En qué supuesto se podrá negar el conductor a realizar el servicio, cuando sea solicitado?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 19,
+            "opcion1": "Retirada definitiva de la licencia o del carné profesional de conductor.",
+            "opcion2": "Amonestación.",
+            "opcion3": "Suspensión de la licencia o del carné profesional de conductor, hasta 15 días.",
+            "opcion4": "Todas son correctas.",
+            "pregunta": "Las faltas graves se sancionarán con:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "normativa"
+        },
+        {
+            "id": 20,
+            "opcion1": "Aire acondicionado.",
+            "opcion2": "Extintor de incendios.",
+            "opcion3": "Equipo de música.",
+            "opcion4": "Todas son falsas.",
+            "pregunta": "Los automóviles destinados al servicio de Auto-Taxi deberán ir provistos siempre de:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 21,
+            "opcion1": "Aparato de música.",
+            "opcion2": "Aire acondicionado.",
+            "opcion3": "Carrocería cerrada con cuatro puertas de fácil acceso y funcionamiento que facilite las maniobras con suavidad.",
+            "opcion4": "Faros antiniebla.",
+            "pregunta": "Los automóviles destinados al servicio de Auto-Taxi deberán ir provistos siempre de (ART 6):",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 22,
+            "opcion1": "Que negociar las tarifas con los sindicatos.",
+            "opcion2": "Que negociar las tarifas con las asociaciones profesionales.",
+            "opcion3": "Que negociar las tarifas con las asociaciones de consumidores.",
+            "opcion4": "Todas son falsas.",
+            "pregunta": "El Ayuntamiento siempre tendrá:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "normativa"
+        },
+        {
+            "id": 23,
+            "opcion1": "Derecho de tanteo sobre la licencia.",
+            "opcion2": "A revocar la concesión de la licencia.",
+            "opcion3": "A obligar a la contratación de conductores asalariados.",
+            "opcion4": "Cambiar los descansos a voluntad.",
+            "pregunta": "El Ayuntamiento siempre tendrá:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "normativa"
+        },
+        {
+            "id": 24,
+            "opcion1": "Todo lo referente a los auto-taxi.",
+            "opcion2": "A los auto-taxis y auto-turismos.",
+            "opcion3": "A todos los servicios de transporte de viajeros.",
+            "opcion4": "Todas son falsas.",
+            "pregunta": "La Ordenanza Municipal de Auto-Taxi regula:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "normativa"
+        },
+        {
+            "id": 31,
+            "opcion1": "De color blanco con franja roja transversal.",
+            "opcion2": "De propiedad del titular.",
+            "opcion3": "De alquiler.",
+            "opcion4": "De cinco plazas excluida la del conductor.",
+            "pregunta": "El vehículo adscrito a la licencia municipal obligatoriamente será:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 32,
+            "opcion1": "3 meses.",
+            "opcion2": "6 meses.",
+            "opcion3": "12 meses.",
+            "opcion4": "180 meses.",
+            "pregunta": "Si un conductor asalariado deja la profesión voluntariamente, ¿cuántos meses tendrán que transcurrir para perder los derechos?",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 33,
+            "opcion1": "5 años.",
+            "opcion2": "10 años.",
+            "opcion3": "No tiene derecho.",
+            "opcion4": "10 años pero solo si no existen conductores asalariados.",
+            "pregunta": "Si un titular de licencia la transfiere, ¿cuánto tiempo tendrá que pasar para optar a otra concesión municipal?",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 34,
+            "opcion1": "Concurrir diariamente a la parada.",
+            "opcion2": "Contratar póliza de seguro.",
+            "opcion3": "Las respuestas 'a' y 'b' son ciertas.",
+            "opcion4": "Todas las respuestas anteriores son falsas.",
+            "pregunta": "Toda persona jurídica que sea titular de licencia municipal de Auto-Taxi estará obligada a:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 35,
+            "opcion1": "Todo lo que legisle en materia de taxi la policía municipal.",
+            "opcion2": "Las normas previstas en L.A.T.H. referente al servicio del taxi.",
+            "opcion3": "Las normas previstas en L.O.T.T.",
+            "opcion4": "Todas son falsas.",
+            "pregunta": "Los Auto-Taxi están regulados por la Ordenanza Municipal y tendrán que respetar:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 36,
+            "opcion1": "La regulación del tráfico rodado en la ciudad.",
+            "opcion2": "La regulación del servicio de transporte interurbano de viajeros en automóviles ligeros de alquiler con conductor.",
+            "opcion3": "La regulación del servicio de transporte interurbano de viajeros en automóviles ligeros de alquiler sin conductor.",
+            "opcion4": "La regulación del servicio de transporte urbano de viajeros en automóviles ligeros de alquiler con conductor.",
+            "pregunta": "Es objeto de la Ordenanza Municipal de Auto-Taxi de Gijón:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "normativa"
+        },
+        {
+            "id": 37,
+            "opcion1": "Las que estime oportunas.",
+            "opcion2": "Las que estime oportunas, con las limitaciones que fija el artículo 23 de la Ordenanza.",
+            "opcion3": "Las que estime oportunas, previo acuerdo con las organizaciones profesionales del sector.",
+            "opcion4": "Las que estime oportunas, previa comunicación a las organizaciones profesionales y sindicales del sector.",
+            "pregunta": "El Ayuntamiento de Gijón podrá establecer paradas especiales:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 38,
+            "opcion1": "Sólo al finalizar el servicio.",
+            "opcion2": "Sólo al finalizar el servicio y en caso de accidente.",
+            "opcion3": "Al finalizar el servicio, en caso de accidente, en reposiciones de carburante y, en general, en cualquier caso de detención por causa no imputable al usuario.",
+            "opcion4": "En todos los casos del apartado anterior, contabilizando una nueva bajada de bandera si el servicio se pudiera reanudar.",
+            "pregunta": "La posición de punto muerto interrumpirá la continuidad del contador del taxímetro:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 39,
+            "opcion1": "Se aprueban por la Comisión de Gobierno del Ayuntamiento de Gijón.",
+            "opcion2": "Se colocarán en el interior del vehículo, en lugar visible para el usuario.",
+            "opcion3": "Se tendrán en el vehículo, a disposición del usuario que las solicite.",
+            "opcion4": "Se aprueban por el Gobierno de la Nación y varían, en cada Municipio, en función de la población de éste.",
+            "pregunta": "Las tarifas vigentes en cada momento:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 40,
+            "opcion1": "Se aprueban por la Junta de Gobierno.",
+            "opcion2": "Se colocarán en el interior del vehículo, en lugar visible para el usuario.",
+            "opcion3": "Se tendrán en el vehículo, a disposición del usuario que las solicite.",
+            "opcion4": "Se aprueban por el Concejal Delegado del Servicio, de acuerdo con las cooperativas de radio taxi de la ciudad.",
+            "pregunta": "Las tarifas vigentes en cada momento:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 41,
+            "opcion1": "Cuando haya sido declarada por la Consejería de Infraestructuras.",
+            "opcion2": "Cuando haya sido declarada por el Ayuntamiento de Gijón, a petición de las organizaciones relacionadas con el sector del taxi.",
+            "opcion3": "Cuando haya sido declarada por el Ayuntamiento de Gijón, a petición de los ciudadanos.",
+            "opcion4": "Cuando haya sido declarada por las organizaciones relacionadas con el sector del taxi.",
+            "pregunta": "La intransitabilidad de las vías por las que se deba circular para prestar un servicio, sólo se admitirá como alegación para no prestarlo:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 42,
+            "opcion1": "Del Ministerio de Fomento (antes de Transportes y Comunicaciones).",
+            "opcion2": "Del Ayuntamiento de Gijón.",
+            "opcion3": "Del Ayuntamiento de Gijón y de la Comunidad Autónoma.",
+            "opcion4": "De la Comunidad Autónoma del Principado de Asturias.",
+            "pregunta": "Los vehículos de Auto-Taxi de Gijón podrán prestar servicio interurbano cuando cuenten con autorización:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "normativa"
+        },
+        {
+            "id": 43,
+            "opcion1": "A cualquier conductor asalariado con ejercicio de la profesión durante un año.",
+            "opcion2": "A cualquier conductor asalariado.",
+            "opcion3": "A su conductor asalariado.",
+            "opcion4": "A su conductor asalariado, siempre que este disponga de carnet profesional, carnet de conducir y cuente con un año de ejercicio de la profesión.",
+            "pregunta": "Cuando el titular de una licencia tenga una antigüedad superior a cinco años podrá transmitirla:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "normativa"
+        },
+        {
+            "id": 44,
+            "opcion1": "Una licencia por cada 1.300 habitantes.",
+            "opcion2": "Una licencia por cada 1.130 habitantes.",
+            "opcion3": "1,310 licencias por cada 1.000 habitantes.",
+            "opcion4": "1,130 licencias por cada 1.000 habitantes.",
+            "pregunta": "La Ordenanza Municipal establece como relación adecuada licencias/población la siguiente:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "normativa"
+        },
+        {
+            "id": 45,
+            "opcion1": "Se regula por la Ordenanza Municipal.",
+            "opcion2": "No tiene ningún tipo de limitación.",
+            "opcion3": "Está tolerada, pero no autorizada expresamente.",
+            "opcion4": "Se autoriza por el Ayuntamiento, previa solicitud de las Asociaciones profesionales del sector.",
+            "pregunta": "La publicidad en los vehículos Auto-Taxi:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "normativa"
+        },
+        {
+            "id": 46,
+            "opcion1": "Elevalunas eléctricos en las cuatro puertas, siendo los traseros de accionamiento por los pasajeros.",
+            "opcion2": "Posibilidad de usar combustibles de bajo poder contaminante.",
+            "opcion3": "Cinco plazas, incluida la del chófer.",
+            "opcion4": "Cinco plazas, excluida la del conductor.",
+            "pregunta": "Los vehículos que se adscriban al servicio de una licencia de Auto-Taxi contarán al menos con:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 47,
+            "opcion1": "Podrán disponer de sistemas de comunicación con la Policía.",
+            "opcion2": "Utilizarán distintivos que diferencien los vehículos asociados de los pertenecientes a otras cooperativas.",
+            "opcion3": "Contratarán la publicidad que exhibirán sus asociados, procurando la mayor uniformidad posible.",
+            "opcion4": "Velarán por la continua mejora en la calidad del servicio.",
+            "pregunta": "Las Cooperativas de Radio Taxi:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "normativa"
+        },
+        {
+            "id": 48,
+            "opcion1": "Igual o superior a tres meses.",
+            "opcion2": "Superior a tres meses.",
+            "opcion3": "Superior a seis meses.",
+            "opcion4": "Igual o superior a seis meses.",
+            "pregunta": "La continuidad de los trabajadores asalariados, a efectos de antigüedad, quedará interrumpida cuando voluntariamente se abandone el ejercicio de la profesión por un tiempo:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "normativa"
+        },
+        {
+            "id": 49,
+            "opcion1": "Plano y callejero de la villa.",
+            "opcion2": "Carnet profesional expedido por el Ayuntamiento de Gijón.",
+            "opcion3": "Póliza de seguro en vigor.",
+            "opcion4": "Talonario de recibos autorizado.",
+            "pregunta": "Durante la prestación del servicio, el conductor habrá de ir provisto de la siguiente documentación referida al vehículo:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 50,
+            "opcion1": "Póliza del seguro en vigor.",
+            "opcion2": "Carnet profesional expedido por el Ayuntamiento.",
+            "opcion3": "Libro de reclamaciones en modelo oficial.",
+            "opcion4": "Permiso de circulación del vehículo.",
+            "pregunta": "Durante la prestación del servicio, el conductor habrá de ir provisto de la siguiente documentación referida al vehículo:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "normativa"
+        },
+        {
+            "id": 51,
+            "opcion1": "Plano callejero de Gijón.",
+            "opcion2": "Direcciones y emplazamiento de sanatorios, clínicas, comisaría de policía, bomberos y demás servicios de urgencias.",
+            "opcion3": "Póliza de seguro en vigor.",
+            "opcion4": "Licencia.",
+            "pregunta": "Durante la prestación del servicio el conductor deberá ir provisto de la siguiente documentación referida al vehículo:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 52,
+            "opcion1": "Grave.",
+            "opcion2": "Grave o muy grave.",
+            "opcion3": "Exclusivamente muy grave.",
+            "opcion4": "Leve o grave.",
+            "pregunta": "La retirada de la licencia es una sanción aplicable por la comisión de una falta calificada como:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 65,
+            "opcion1": "La comisión de dos faltas graves en el periodo de un año.",
+            "opcion2": "La comisión de cinco faltas graves en el periodo de un año.",
+            "opcion3": "La comisión de tres faltas graves en el periodo de un año.",
+            "opcion4": "La comisión de cuatro faltas graves en el periodo de un año.",
+            "pregunta": "Tendrá la consideración de falta muy grave:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "normativa"
+        },
+        {
+            "id": 66,
+            "opcion1": "Poner en servicio el vehículo no estando en buenas condiciones de funcionamiento.",
+            "opcion2": "Las discusiones entre compañeros de trabajo.",
+            "opcion3": "La inasistencia a la parada o situado que tenga señalado durante una semana.",
+            "opcion4": "Abandonar al viajero sin rendir el servicio para que fuera requerido, sin causa justificada.",
+            "pregunta": "Tendrá la consideración de falta muy grave:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "normativa"
+        },
+        {
+            "id": 67,
+            "opcion1": "El cometer tres faltas graves en el periodo de un año.",
+            "opcion2": "El cobro abusivo a los usuarios.",
+            "opcion3": "Cometer cuatro faltas leves en el periodo de seis meses.",
+            "opcion4": "La comisión de diez faltas leves en el periodo de un año.",
+            "pregunta": "Tendrá la consideración de falta muy grave:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 68,
+            "opcion1": "Por el Alcalde, sin procedimiento alguno.",
+            "opcion2": "Por el Concejal Delegado, sin procedimiento alguno.",
+            "opcion3": "La imposición de sanción requiere la tramitación de procedimiento sancionador.",
+            "opcion4": "Son válidas las respuestas a y b.",
+            "pregunta": "Al titular de una licencia, o a su asalariado, se le podrá imponer sanción por la comisión de faltas:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 69,
+            "opcion1": "Está prohibido.",
+            "opcion2": "Está permitido.",
+            "opcion3": "Está prohibido y se hará constar mediante cartel colocado en el interior.",
+            "opcion4": "Está permitido, salvo oposición expresa del conductor.",
+            "pregunta": "Fumar en los vehículos de Auto-Taxi:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "normativa"
+        },
+        {
+            "id": 70,
+            "opcion1": "El viajero podrá pedir la intervención de un agente de la autoridad que lo compruebe.",
+            "opcion2": "El conductor podrá pedir el abono íntegro del servicio, incluida la bajada de bandera.",
+            "opcion3": "El viajero deberá abonar el importe del servicio, sólo en caso de avería.",
+            "opcion4": "El viajero deberá abonar el importe del servicio, sólo en caso de accidente.",
+            "pregunta": "En caso accidente o avería que impida la continuación del servicio:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "normativa"
+        },
+        {
+            "id": 71,
+            "opcion1": "Precisa la autorización de la Consejería de Fomento para la sustitución del vehículo.",
+            "opcion2": "Precisa la autorización del Ayuntamiento para la sustitución del vehículo.",
+            "opcion3": "Precisa la autorización de la Consejería de Transportes para la sustitución del vehículo.",
+            "opcion4": "Precisa la autorización de la Consejería de Tráfico para la sustitución del vehículo.",
+            "pregunta": "El titular de una licencia de Auto-Taxi:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 72,
+            "opcion1": "1,310 licencias por cada 1.000 habitantes.",
+            "opcion2": "1,310 licencias por cada 1.500 habitantes.",
+            "opcion3": "1,130 licencias por cada 1.000 habitantes.",
+            "opcion4": "1,130 licencias por cada 2.000 habitantes.",
+            "pregunta": "La relación adecuada de licencias de Auto-Taxi se establece en la Ordenanza en:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 73,
+            "opcion1": "Salvo cuando puedan crearse veinte nuevas licencias.",
+            "opcion2": "Salvo cuando puedan crearse diez nuevas licencias.",
+            "opcion3": "Salvo cuando puedan crearse cinco nuevas licencias.",
+            "opcion4": "Salvo cuando puedan crearse quince nuevas licencias.",
+            "pregunta": "No se otorgarán nuevas licencias en aplicación de la relación anterior:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 74,
+            "opcion1": "A las asociaciones profesionales de empresarios del sector.",
+            "opcion2": "A las asociaciones de trabajadores del sector.",
+            "opcion3": "A las asociaciones de usuarios.",
+            "opcion4": "A todas las asociaciones citadas en los puntos anteriores.",
+            "pregunta": "En el expediente que se tramite para la creación de nuevas licencias, se dará audiencia:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "normativa"
+        },
+        {
+            "id": 75,
+            "opcion1": "Los cinco años siguientes.",
+            "opcion2": "Los ocho años siguientes.",
+            "opcion3": "Los quince años siguientes.",
+            "opcion4": "Los diez años siguientes.",
+            "pregunta": "Al titular de una licencia se le permite transmitirla por causas ajenas a la jubilación u otras de fuerza mayor, pero no podrá acceder a otra, por transferencia, en el periodo de:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "normativa"
+        },
+        {
+            "id": 76,
+            "opcion1": "Entre cónyuges, o de padres a hijos, en todos los casos.",
+            "opcion2": "Sólo entre cónyuges, por motivo de jubilación.",
+            "opcion3": "Entre cónyuges, o de padres a hijos, por motivos de jubilación, fallecimiento o incapacidad u otra de fuerza mayor.",
+            "opcion4": "Sólo de padres a hijos, por las causas indicadas en el punto anterior.",
+            "pregunta": "Quedan exentas de gravamen las transmisiones de licencias:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 77,
+            "opcion1": "Mínimo de un año.",
+            "opcion2": "Máximo de un año.",
+            "opcion3": "Mínimo de seis meses.",
+            "opcion4": "Máximo de seis meses.",
+            "pregunta": "En caso de fallecimiento del titular de la licencia, la transmisión de la misma deberá efectuarse en el plazo:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 78,
+            "opcion1": "El situado a la derecha de los conductores.",
+            "opcion2": "El situado a la izquierda de los conductores.",
+            "opcion3": "El situado en primer lugar en dirección al sentido de la marcha.",
+            "opcion4": "Todas las respuestas anteriores son falsas.",
+            "pregunta": "En una parada de Auto-Taxi en la que el aparcamiento se realice en batería, será primer puesto para la toma de viajeros:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "normativa"
+        },
+        {
+            "id": 79,
+            "opcion1": "El situado a la derecha de los conductores.",
+            "opcion2": "El situado a la izquierda de los conductores.",
+            "opcion3": "El primer lugar en dirección de la marcha.",
+            "opcion4": "El primero que haya llegado a la parada con independencia del puesto que ocupase en la misma.",
+            "pregunta": "En una parada de Auto-Taxi en la que el aparcamiento se realice en cordón, será primer puesto para la toma de viajeros:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 80,
+            "opcion1": "Tendrá la obligación de explotarla personalmente.",
+            "opcion2": "Tendrá la obligación de explotarla personalmente o por medio de conductor asalariado.",
+            "opcion3": "Deberá estar afiliado al Régimen General de la Seguridad Social.",
+            "opcion4": "Podrá desempeñar otros trabajos por cuenta ajena, siempre que éstos se realicen bajo la modalidad de contrato a tiempo parcial.",
+            "pregunta": "El titular de una licencia:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 98,
+            "opcion1": "Los riesgos determinados por la legislación en vigor y en especial la que cubra todo riesgo del viajero y el conductor en sus cuantías mínimas.",
+            "opcion2": "Los riesgos determinados por la legislación en vigor y en especial la que cubra todo riesgo del viajero y el conductor en sus cuantías máximas.",
+            "opcion3": "Los riesgos determinados por la legislación en vigor y en especial la que cubra todo riesgo del viajero en sus cuantías máximas.",
+            "opcion4": "Ninguna es correcta.",
+            "pregunta": "¿Qué riesgos cubre la póliza del seguro obligatorio de los vehículos Auto-Taxi, según la Ordenanza Municipal?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 99,
+            "opcion1": "Un mes.",
+            "opcion2": "30 días.",
+            "opcion3": "15 días.",
+            "opcion4": "60 días.",
+            "pregunta": "¿Qué plazo se establece en los expedientes de otorgamiento de nuevas licencias para dar audiencia a las asociaciones de empresarios y trabajadores y a la de usuarios?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 100,
+            "opcion1": "Que se transfiera la licencia.",
+            "opcion2": "Que se explote hasta que se declare invalidez permanente total del titular.",
+            "opcion3": "Por retirada definitiva del carnet producida por sentencia dictada por delito doloso.",
+            "opcion4": "Por la permuta de un expediente sancionador.",
+            "pregunta": "¿En qué supuesto no entrará en vigor el plazo de los treinta años de duración de la licencia?",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 101,
+            "opcion1": "El primero en dirección a la marcha.",
+            "opcion2": "El primero situado a la derecha.",
+            "opcion3": "El primero situado a la izquierda.",
+            "opcion4": "El primero en dirección de la marcha del cliente.",
+            "pregunta": "¿Qué vehículo se considera cabecera en una parada, si el aparcamiento es en cordón?",
+            "respuesta_correcta": "opcion1",
+            "tipo": "normativa"
+        },
+        {
+            "id": 102,
+            "opcion1": "Todo auto taxi deberá ir provisto de un aparato taxímetro situado en el salpicadero del vehículo.",
+            "opcion2": "El aparato taxímetro entrará en funcionamiento al recoger a los clientes.",
+            "opcion3": "La posición de punto muerto no interrumpirá la continuidad del contador al finalizar el servicio.",
+            "opcion4": "El aparato taxímetro deberá estar precintado.",
+            "pregunta": "Indique la afirmación correcta",
+            "respuesta_correcta": "opcion4",
+            "tipo": "normativa"
+        },
+        {
+            "id": 103,
+            "opcion1": "Placa con el número de licencia municipal del vehículo y la indicación del número de plazas del mismo.",
+            "opcion2": "Libro de reclamaciones.",
+            "opcion3": "Carnet profesional.",
+            "opcion4": "Ficha Técnica del vehículo.",
+            "pregunta": "Indique el documento referido al vehículo que los conductores deberán llevar durante la prestación del servicio, de acuerdo con el artículo 32 de la Ordenanza Municipal de Auto-Taxi.",
+            "respuesta_correcta": "opcion1",
+            "tipo": "normativa"
+        },
+        {
+            "id": 104,
+            "opcion1": "Ser requerido por individuos perseguidos por la policía.",
+            "opcion2": "Ser solicitado para transportar un número de personas superior al de las plazas autorizadas para el vehículo.",
+            "opcion3": "Que cualquiera de los viajeros se halle en estado de manifiesta embriaguez.",
+            "opcion4": "Todas son causas justas por las que un conductor puede negarse a realizar un servicio.",
+            "pregunta": "¿Cuál de las siguientes causas no tendrá la consideración de causa justa por la que un conductor puede negarse a realizar un servicio?",
+            "respuesta_correcta": "opcion4",
+            "tipo": "normativa"
+        },
+        {
+            "id": 105,
+            "opcion1": "Las licencias caducarán por renuncia expresa del titular.",
+            "opcion2": "Las licencias caducarán por no tener el titular de la licencia concertada la póliza de seguros.",
+            "opcion3": "Las licencias caducarán por cumplimiento del plazo establecido en el artículo quince.",
+            "opcion4": "Todas son correctas.",
+            "pregunta": "Indique la afirmación falsa:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "normativa"
+        },
+        {
+            "id": 106,
+            "opcion1": "El incumplimiento de las órdenes concretas del itinerario marcado por los viajeros.",
+            "opcion2": "La inasistencia a la parada o situado que tenga señalado durante una semana consecutiva.",
+            "opcion3": "Las discusiones entre compañeros de trabajo.",
+            "opcion4": "El empleo de palabras o gestos groseros y amenazas.",
+            "pregunta": "¿Qué falta tiene consideración de falta leve?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 107,
+            "opcion1": "Centro comercial San Agustín.",
+            "opcion2": "Hipermercado Alcampo.",
+            "opcion3": "Hipermercado Carrefour.",
+            "opcion4": "Centro comercial Los Fresnos.",
+            "pregunta": "¿Dónde está situado un estacionamiento reservado, según la Ordenanza Municipal de Auto-Taxi?",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 108,
+            "opcion1": "Recurso de casación.",
+            "opcion2": "Recurso de alzada.",
+            "opcion3": "Recurso de revisión.",
+            "opcion4": "Recurso de reposición.",
+            "pregunta": "¿Qué recurso se podrá interponer contra la resolución adoptada en el procedimiento sancionador en materia de Auto-Taxi?",
+            "respuesta_correcta": "opcion4",
+            "tipo": "normativa"
+        },
+        {
+            "id": 109,
+            "opcion1": "Los vehículos auto taxi podrán disponer de sistema de comunicación con la policía.",
+            "opcion2": "Las cooperativas de auto taxi podrán disponer de sistemas de seguridad con la policía.",
+            "opcion3": "Las pegatinas de la publicidad colocadas en las puertas serán de 40X65.",
+            "opcion4": "La publicidad exterior podrá colocarse en las cuatro puertas.",
+            "pregunta": "Indique la afirmación correcta:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "normativa"
+        },
+        {
+            "id": 110,
+            "opcion1": "En las dos puertas delanteras y en la parte central y hacia debajo de la luneta delantera.",
+            "opcion2": "En las dos puertas traseras y en la parte central y hacia debajo de la luneta delantera.",
+            "opcion3": "En las dos puertas delanteras y en la parte central y hacia debajo de la luneta posterior.",
+            "opcion4": "En las dos puertas traseras y en la parte central y hacia debajo de la luneta posterior.",
+            "pregunta": "¿En qué parte del vehículo se hará constar el número de licencia?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 111,
+            "opcion1": "No, en ningún caso.",
+            "opcion2": "Sí, siempre que cuenten para ello con la preceptiva autorización de la Comunidad Autónoma.",
+            "opcion3": "Sí, siempre que cuenten para ello con la preceptiva autorización del Ayuntamiento de Gijón.",
+            "opcion4": "Sí, siempre que cuenten para ello con la preceptiva autorización del Ministerio de Fomento.",
+            "pregunta": "¿Pueden realizar servicios de carácter interurbano los vehículos Auto-Taxi del Concejo de Gijón?",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 115,
+            "opcion1": "Previa autorización del Ayuntamiento.",
+            "opcion2": "Cuando lo considere conveniente, sin necesidad de que lo autorice el Ayuntamiento.",
+            "opcion3": "Previa autorización de la Inspección Técnica de Vehículos.",
+            "opcion4": "Siempre que autorice la sustitución tanto el Ayuntamiento como la Inspección Técnica de Vehículos.",
+            "pregunta": "Los titulares de la Licencia Municipal de Auto-Taxi podrán sustituir el vehículo cuando:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "normativa"
+        },
+        {
+            "id": 116,
+            "opcion1": "Cuando lo consideren oportuno.",
+            "opcion2": "Cuando lo diga el Ayuntamiento.",
+            "opcion3": "Cuando el anterior no supere la I.T.V.",
+            "opcion4": "Con autorización del Ayuntamiento.",
+            "pregunta": "Los titulares de la Licencia Municipal de Auto-Taxi podrán sustituir el vehículo cuando:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "normativa"
+        },
+        {
+            "id": 117,
+            "opcion1": "Nunca.",
+            "opcion2": "Cuando lo crea oportuno por razones de servicio.",
+            "opcion3": "Siempre que lo pacten los Sindicatos.",
+            "opcion4": "Cuando el presidente de una asociación de vecinos lo pida.",
+            "pregunta": "Bajo que circunstancias el Ayuntamiento podrá establecer paradas de taxi especiales:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 118,
+            "opcion1": "Libro de reclamaciones según modelo oficial.",
+            "opcion2": "Carnet profesional.",
+            "opcion3": "Permiso de circulación del vehículo.",
+            "opcion4": "Póliza de seguro en vigor.",
+            "pregunta": "Para la prestación de un servicio el conductor llevará:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 119,
+            "opcion1": "Sí.",
+            "opcion2": "No, si es por fallecimiento del titular.",
+            "opcion3": "No, si en el transcurso de tres meses el titular pone otro vehículo de su propiedad.",
+            "opcion4": "No, si en el transcurso de dos meses el titular pone otro vehículo de su propiedad.",
+            "pregunta": "Las transmisiones por actos inter vivos de los vehículos Auto-Taxi llevan implícita la anulación de licencia:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 120,
+            "opcion1": "Carrocería cerrada con cuatro puertas de fácil acceso y funcionamiento que facilite las maniobras con suavidad.",
+            "opcion2": "Póliza de seguro en vigor.",
+            "opcion3": "Las puertas estarán dotadas de mecanismos para accionar los vidrios a voluntad del usuario.",
+            "opcion4": "Las cooperativas de radio taxi podrán disponer de sistemas de comunicación con la policía.",
+            "pregunta": "Los vehículos destinados a Auto-Taxi no deberán estar dotados de:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "normativa"
+        },
+        {
+            "id": 121,
+            "opcion1": "Cuando por razones de servicio el Ayuntamiento lo considere oportuno.",
+            "opcion2": "Cuando la relación taxis habitantes sea 1.130 por 1.000.",
+            "opcion3": "Cuando las asociaciones de consumidores lo soliciten y el Ayuntamiento lo considere oportuno.",
+            "opcion4": "Cuando la relación taxis habitantes según la ratio establecida supere la cifra de 10 nuevas licencias.",
+            "pregunta": "Bajo qué condiciones el Ayuntamiento otorgará nuevas licencias de taxi:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "normativa"
+        },
+        {
+            "id": 122,
+            "opcion1": "Todo conductor asalariado que, estando en posesión del carnet profesional, hubiera trabajado al menos 6 meses en los últimos 10 años.",
+            "opcion2": "Las personas jurídicas que la obtengan mediante concurso libre, siempre que no existan asalariados con mejor derecho.",
+            "opcion3": "Los conductores asalariados que presten servicio con plena dedicación.",
+            "opcion4": "Todas las personas que demuestren estar en condiciones de trabajar.",
+            "pregunta": "Podrán solicitar licencias de Auto-Taxi:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 123,
+            "opcion1": "No podrá optar.",
+            "opcion2": "Cuando hubiera transcurrido al menos 10 años.",
+            "opcion3": "En cualquier momento.",
+            "opcion4": "Siempre que abone las tasas municipales.",
+            "pregunta": "Bajo qué circunstancias el que hubiera sido titular de licencia podrá optar a una nueva adjudicación de licencia:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 124,
+            "opcion1": "Las licencias de taxi siempre podrán ser transferidas.",
+            "opcion2": "Cuando el titular tuviera otra profesión y no pudiera atenderla.",
+            "opcion3": "Cuando al titular le fuera retirado el carnet de conducir definitivamente.",
+            "opcion4": "Siempre que el titular lo crea oportuno.",
+            "pregunta": "Las licencias de Auto-Taxi serán intransferibles salvo en los supuestos siguientes:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 125,
+            "opcion1": "Siempre que sea lucrativa.",
+            "opcion2": "En régimen de alquiler.",
+            "opcion3": "Con plena y exclusiva dedicación.",
+            "opcion4": "Mediante la contratación de conductores asalariados.",
+            "pregunta": "Bajo qué modalidad se tendrá que explotar la licencia de Auto-Taxi:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 126,
+            "opcion1": "90 días.",
+            "opcion2": "30 días.",
+            "opcion3": "60 días.",
+            "opcion4": "Cuando quiera.",
+            "pregunta": "Desde la fecha de concesión de licencia el adjudicatario está obligado a prestar servicio en el plazo de:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 127,
+            "opcion1": "Licencia municipal.",
+            "opcion2": "Póliza de seguro en vigor.",
+            "opcion3": "Carnet profesional.",
+            "opcion4": "Plano y callejero de la villa.",
+            "pregunta": "El conductor de un Auto-Taxi para prestar servicio siempre tendrá que tener:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 130,
+            "opcion1": "Abandonar al viajero sin rendir el servicio para que fuera requerido, sin causa justificada.",
+            "opcion2": "Cometer tres faltas graves en el periodo de un año.",
+            "opcion3": "Poner en servicio el vehículo no estando en buenas condiciones de funcionamiento.",
+            "opcion4": "Todas son faltas muy graves.",
+            "pregunta": "Será una falta muy grave:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "normativa"
+        },
+        {
+            "id": 131,
+            "opcion1": "Reiterado incumplimiento de las disposiciones sobre revisión periódica a que se hace referencia.",
+            "opcion2": "El arrendamiento, alquiler o apoderamiento de la licencia que suponga una explotación no autorizada.",
+            "opcion3": "La contratación de personal asalariado si este no cuenta con el necesario carnet profesional otorgado por el Ayuntamiento de Gijón.",
+            "opcion4": "Todas son causas de revocación y retirada de la licencia.",
+            "pregunta": "No será causa por la que el Ayuntamiento de Gijón declarará revocadas y retirada la licencia:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "normativa"
+        },
+        {
+            "id": 132,
+            "opcion1": "Sí en cualquier caso.",
+            "opcion2": "Sí, siempre que cuenten con la preceptiva autorización de la Comunidad Autónoma.",
+            "opcion3": "Sí, siempre que cuenten con la preceptiva autorización del Ayuntamiento de Gijón.",
+            "opcion4": "Sí, siempre que cuenten con la preceptiva autorización del Ministerio de Fomento.",
+            "pregunta": "¿Pueden los vehículos destinados a Auto-Taxi en el concejo de Gijón realizar servicio de carácter interurbano?",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 133,
+            "opcion1": "1,130",
+            "opcion2": "1,310",
+            "opcion3": "1,113",
+            "opcion4": "1,331",
+            "pregunta": "¿Cuál es la relación adecuada de taxis por cada 1.000 habitantes?",
+            "respuesta_correcta": "opcion1",
+            "tipo": "normativa"
+        },
+        {
+            "id": 134,
+            "opcion1": "La publicidad únicamente podrá ir colocada en las puertas traseras.",
+            "opcion2": "En el interior del vehículo se instalará el necesario alumbrado eléctrico y un extintor de incendios.",
+            "opcion3": "Las personas naturales podrán solicitar licencia de auto taxi.",
+            "opcion4": "No se podrá colocar anuncios publicitarios en el interior del vehículo.",
+            "pregunta": "Diga qué afirmación es falsa:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "normativa"
+        },
+        {
+            "id": 137,
+            "opcion1": "20 años.",
+            "opcion2": "30 años.",
+            "opcion3": "Las licencias son por tiempo indefinido.",
+            "opcion4": "50 años.",
+            "pregunta": "¿Cuál es la duración de las Licencias de Auto-Taxi?",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 138,
+            "opcion1": "Las discusiones entre compañeros de trabajo.",
+            "opcion2": "La negativa a prestar servicio en hora y turno de trabajo sin causa justificada.",
+            "opcion3": "El empleo de palabras o gestos groseros y amenazas en su trato con los usuarios y dirigidos a los viandantes o conductores de otros vehículos.",
+            "opcion4": "La comisión de cuatro faltas leves en el plazo de un año.",
+            "pregunta": "Es una falta grave:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 140,
+            "opcion1": "No tener el titular de la licencia concertada la póliza de seguros, o que esta no se encuentre en vigor.",
+            "opcion2": "Dejar de prestar servicio al público durante 20 días consecutivos o 30 alternos durante el periodo de un año.",
+            "opcion3": "Reiterado incumplimiento de las disposiciones sobre la revisión periódica a que se hace referencia en la Ordenanza.",
+            "opcion4": "El incumplimiento de las infracciones inherentes a la licencia y demás disposiciones que hagan referencia a la propiedad del vehículo.",
+            "pregunta": "No es causa por la que el Ayuntamiento de Gijón declarará revocadas y retirada la licencia:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 141,
+            "opcion1": "Por el Ilmo. Sr. Alcalde, como presidente; el Concejal Delegado del servicio, un Concejal en representación de los grupos políticos que integran la corporación y el funcionario encargado del servicio.",
+            "opcion2": "Por el Concejal Delegado del servicio, un Concejal en representación de los grupos políticos que integran la corporación y el funcionario encargado del Servicio, actuando como secretario el de la corporación.",
+            "opcion3": "Por el Ilmo. Sr. Alcalde, Concejal Delegado del servicio y el funcionario encargado del Servicio actuando como secretario el de la corporación.",
+            "opcion4": "Por el Ilmo. Sr. Alcalde, Concejal Delegado del servicio, un Concejal en representación de los grupos políticos que integran la corporación y el funcionario encargado del servicio.",
+            "pregunta": "¿Por quién estará compuesto el tribunal del examen de conductor de Auto-Taxi?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 142,
+            "opcion1": "Mapa de Asturias.",
+            "opcion2": "Un ejemplar de la Ordenanza.",
+            "opcion3": "Carnet profesional de conductor de Auto-Taxi expedido por el Principado de Asturias.",
+            "opcion4": "Deberá ir provisto de todos los documentos anteriores.",
+            "pregunta": "¿Cuál de los siguientes documentos deberá ir provisto durante la prestación del servicio?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 143,
+            "opcion1": "Régimen General de la Seguridad Social.",
+            "opcion2": "Régimen especial de trabajadores Autónomos.",
+            "opcion3": "A cualquiera de los dos indistintamente.",
+            "opcion4": "La Ordenanza Municipal no prevé ninguna obligación en esta materia.",
+            "pregunta": "Toda persona titular de una licencia de Auto-Taxi deberá afiliarse al:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 144,
+            "opcion1": "1,310 cada 1.000 habitantes.",
+            "opcion2": "1,310 cada 100 habitantes.",
+            "opcion3": "1,130 cada 1.000 habitantes.",
+            "opcion4": "1,113 cada 100 habitantes.",
+            "pregunta": "Indique cuál es la relación adecuada de Auto-Taxi por habitantes recogida en la Ordenanza:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 161,
+            "opcion1": "Falta leve.",
+            "opcion2": "Falta menos grave.",
+            "opcion3": "Falta grave.",
+            "opcion4": "Falta muy grave.",
+            "pregunta": "La discusión entre compañeros de trabajo tendrá la consideración de:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "normativa"
+        },
+        {
+            "id": 162,
+            "opcion1": "La discusión entre compañeros de trabajo.",
+            "opcion2": "Poner en servicio el vehículo no estando en buenas condiciones de funcionamiento.",
+            "opcion3": "El percibo de tarifas inferiores a las autorizadas.",
+            "opcion4": "La inasistencia a la parada o situado que tenga señalado sin causa justificada.",
+            "pregunta": "Cuál de las siguientes consideraciones se estima como falta muy grave:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 163,
+            "opcion1": "Suspensión del carnet profesional de conductor hasta seis meses.",
+            "opcion2": "Suspensión del carnet profesional de conductor hasta un año.",
+            "opcion3": "Suspensión de la licencia hasta seis meses.",
+            "opcion4": "Retirada de la licencia hasta un año.",
+            "pregunta": "Las sanciones con que podrán castigarse las faltas tipificadas en los artículos 44,45 y 46 como falta grave serán las siguientes:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 164,
+            "opcion1": "De doble dirección.",
+            "opcion2": "De dirección única desde la carretera de Viesques a General Suarez Valdes.",
+            "opcion3": "De dirección única, en sentido inverso a la anterior.",
+            "opcion4": "De dirección única solamente desde C/ Periodista Paco Ignacio Taibo Lavilla a carretera de Viesques.",
+            "pregunta": "El Camino de Don Quijote es:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 167,
+            "opcion1": "En 5 taxis.",
+            "opcion2": "En 10 taxis.",
+            "opcion3": "En 15 taxis.",
+            "opcion4": "En 20 taxis.",
+            "pregunta": "No se podrá poner en ningún taxi cualquier tipo de anuncio que no se haga figurar, cuando menos:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 169,
+            "opcion1": "A las asociaciones profesionales de empresarios del sector.",
+            "opcion2": "A las asociaciones de trabajadores del sector.",
+            "opcion3": "A las asociaciones de usuarios.",
+            "opcion4": "A todas las asociaciones citadas anteriormente.",
+            "pregunta": "En la tramitación de un expediente para la creación de nuevas licencias, se dará audiencia:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "normativa"
+        },
+        {
+            "id": 171,
+            "opcion1": "El Ayuntamiento de Gijón.",
+            "opcion2": "El Principado de Asturias.",
+            "opcion3": "No necesitan autorización previa.",
+            "opcion4": "El Ayuntamiento de Gijón y del Principado de Asturias.",
+            "pregunta": "Los titulares de la Licencia Municipal de Auto-Taxi podrán sustituir el vehículo adscrito a la misma por otro previa autorización de:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "normativa"
+        },
+        {
+            "id": 172,
+            "opcion1": "La publicidad exterior únicamente podrá ir colocada en las puertas traseras.",
+            "opcion2": "En el interior del vehículo se instalará el necesario alumbrado eléctrico y un extintor de incendios.",
+            "opcion3": "Las personas naturales podrán solicitar licencia de auto-taxi.",
+            "opcion4": "No se podrá colocar anuncios publicitarios en el interior del vehículo.",
+            "pregunta": "Indique qué afirmación es falsa:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "normativa"
+        },
+        {
+            "id": 173,
+            "opcion1": "Únicamente por el conductor del vehículo.",
+            "opcion2": "A voluntad del usuario.",
+            "opcion3": "Únicamente si el vehículo está parado.",
+            "opcion4": "Solo la parte del conductor.",
+            "pregunta": "Las puertas del vehículo Auto-Taxi deberán hallarse dotadas del mecanismo conveniente para que sus vidrios puedan accionarse por:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 174,
+            "opcion1": "Licencia.",
+            "opcion2": "Carnet profesional de conductor expedido por el Ayuntamiento.",
+            "opcion3": "Plano y callejero de la villa.",
+            "opcion4": "Placa con el número de licencia Municipal del vehículo.",
+            "pregunta": "Durante la prestación del servicio los conductores deberán ir provistos de los siguientes documentos referidos al servicio:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 175,
+            "opcion1": "Poliza del seguro en vigor.",
+            "opcion2": "Carnet profesional expedido por el Ayuntamiento.",
+            "opcion3": "Libro de reclamaciones en modelo oficial.",
+            "opcion4": "Permiso de circulación del vehículo.",
+            "pregunta": "Durante la prestación del servicio los conductores deberán ir provistos de los siguientes documentos referidos al servicio:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 178,
+            "opcion1": "Las cooperativas de radio taxi no podrán disponer de sistema de comunicación con la Policía.",
+            "opcion2": "Las cooperativas de radio taxi podrán disponer de sistema de comunicación con la Policía.",
+            "opcion3": "Las cooperativas de radio taxi deberán solicitar sistema de comunicación con la Policía.",
+            "opcion4": "Las cooperativas de radio taxi no podrán solicitar sistema de comunicación con la Policía.",
+            "pregunta": "Por disponerlo así la vigente Ordenanza Municipal de Auto-Taxi:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 180,
+            "opcion1": "El Ayuntamiento de Gijón.",
+            "opcion2": "La Dirección General de Tráfico.",
+            "opcion3": "La Delegación de Hacienda.",
+            "opcion4": "La Consejería de Industria, Comercio y Turismo del Principado de Asturias.",
+            "pregunta": "Quien autoriza los talonarios recibos:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 181,
+            "opcion1": "Ayuntamiento de Gijón.",
+            "opcion2": "Dirección General de Carreteras del Principado de Asturias.",
+            "opcion3": "Dirección General de Transportes del Principado de Asturias.",
+            "opcion4": "Comunidad Autónoma del Principado de Asturias.",
+            "pregunta": "Los vehículos destinados a Auto-Taxi en el concejo de Gijón podrán realizar servicio interurbano siempre que cuenten para ello con la preceptiva autorización de:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "normativa"
+        },
+        {
+            "id": 182,
+            "opcion1": "Cuando la calle o camino estén sin asfaltar.",
+            "opcion2": "Por estimar el conductor que el acceso del lugar requerido es intransitable.",
+            "opcion3": "Que la declaración de una vía por la que debe circular el auto-taxi, la haya declarado intransitable el propio Ayuntamiento.",
+            "opcion4": "Que la vía por la que ha de circular, o las que deban llegar, haya sido señalada como intransitable expresamente, por el Ayuntamiento de Gijón.",
+            "pregunta": "El vehículo Auto-Taxi podrá dejar de prestar un servicio en el término municipal de Gijón:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "normativa"
+        },
+        {
+            "id": 185,
+            "opcion1": "Únicamente por el conductor del vehículo.",
+            "opcion2": "A voluntad del usuario.",
+            "opcion3": "Únicamente si el vehículo está parado.",
+            "opcion4": "Solo la parte del conductor.",
+            "pregunta": "Las puertas del vehículo Auto-Taxi deberán hallarse dotadas del mecanismo conveniente para que sus vidrios puedan accionarse por:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 186,
+            "opcion1": "Licencia.",
+            "opcion2": "Carnet profesional de conductor expedido por el Ayuntamiento.",
+            "opcion3": "Plano y callejero de la villa.",
+            "opcion4": "Placa con el número de licencia Municipal del vehículo.",
+            "pregunta": "Durante la prestación del servicio los conductores deberán ir provistos de los siguientes documentos referidos al servicio:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 187,
+            "opcion1": "Poliza del seguro en vigor.",
+            "opcion2": "Carnet profesional expedido por el Ayuntamiento.",
+            "opcion3": "Libro de reclamaciones en modelo oficial.",
+            "opcion4": "Permiso de circulación del vehículo.",
+            "pregunta": "Durante la prestación del servicio los conductores deberán ir provistos de los siguientes documentos referidos al servicio:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 190,
+            "opcion1": "Las cooperativas de radio taxi no podrán disponer de sistema de comunicación con la Policía.",
+            "opcion2": "Las cooperativas de radio taxi podrán disponer de sistema de comunicación con la Policía.",
+            "opcion3": "Las cooperativas de radio taxi deberán solicitar sistema de comunicación con la Policía.",
+            "opcion4": "Las cooperativas de radio taxi no podrán solicitar sistema de comunicación con la Policía.",
+            "pregunta": "Por disponerlo así la vigente Ordenanza Municipal de Auto-Taxi:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 192,
+            "opcion1": "El Ayuntamiento de Gijón.",
+            "opcion2": "La Dirección General de Tráfico.",
+            "opcion3": "La Delegación de Hacienda.",
+            "opcion4": "La Consejería de Industria, Comercio y Turismo del Principado de Asturias.",
+            "pregunta": "Quien autoriza los talonarios recibos:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 193,
+            "opcion1": "Ayuntamiento de Gijón.",
+            "opcion2": "Dirección General de Carreteras del Principado de Asturias.",
+            "opcion3": "Dirección General de Transportes del Principado de Asturias.",
+            "opcion4": "Comunidad Autónoma del Principado de Asturias.",
+            "pregunta": "Los vehículos destinados a Auto-Taxi en el concejo de Gijón podrán realizar servicio interurbano siempre que cuenten para ello con la preceptiva autorización de:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "normativa"
+        },
+        {
+            "id": 194,
+            "opcion1": "Cuando la calle o camino estén sin asfaltar.",
+            "opcion2": "Por estimar el conductor que el acceso del lugar requerido es intransitable.",
+            "opcion3": "Que la declaración de una vía por la que debe circular el auto-taxi, la haya declarado intransitable el propio Ayuntamiento.",
+            "opcion4": "Que la vía por la que ha de circular, o las que deban llegar, haya sido señalada como intransitable expresamente, por el Ayuntamiento de Gijón.",
+            "pregunta": "El vehículo Auto-Taxi podrá dejar de prestar un servicio en el término municipal de Gijón:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "normativa"
+        },
+        {
+            "id": 200,
+            "opcion1": "Ayuntamiento de Gijón.",
+            "opcion2": "Delegación de Hacienda.",
+            "opcion3": "Comunidad Autónoma del Principado de Asturias.",
+            "opcion4": "Cámara de Comercio e Industria de Asturias.",
+            "pregunta": "Todos los vehículos destinados a Auto-Taxi en el concejo de Gijón podrán realizar servicio de carácter interurbano siempre que cuenten con la preceptiva autorización de:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 201,
+            "opcion1": "El Ministerio de transportes.",
+            "opcion2": "Ayuntamiento de Gijón.",
+            "opcion3": "El Ayuntamiento y la Comunidad Autónoma.",
+            "opcion4": "La Comunidad Autónoma del Principado de Asturias.",
+            "pregunta": "Todos los vehículos destinados a Auto-Taxi en el concejo de Gijón podrán realizar servicio de carácter interurbano siempre que cuenten con la preceptiva autorización de:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "normativa"
+        },
+        {
+            "id": 204,
+            "opcion1": "El descuido del aseo personal.",
+            "opcion2": "La inasistencia al servicio durante una semana consecutiva sin causa justificada.",
+            "opcion3": "Abandonar al viajero sin rendir el servicio para que fuera requerido, sin causa justificada.",
+            "opcion4": "Las discusiones entre compañeros.",
+            "pregunta": "Tendrá la consideración de falta grave sancionada por la Ordenanza Municipal de Auto-Taxi:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 220,
+            "opcion1": "Las Coop. De Radio Taxi deberán disponer de sistemas de comunicación con la policia.",
+            "opcion2": "Las Coop. De Radio Taxi no podrán disponer de sistemas de comunicación con la policia.",
+            "opcion3": "Las Coop. De Radio Taxi podrán disponer de sistemas de comunicación con la policia.",
+            "opcion4": "Ninguna es correcta.",
+            "pregunta": "Sólo una de las siguientes afirmaciones es cierta:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "normativa"
+        },
+        {
+            "id": 221,
+            "opcion1": "Siguiendo la marcha de los vehículos, el último de la fila, que es por donde llega el cliente.",
+            "opcion2": "El primer vehículo que el conductor le invite a subir.",
+            "opcion3": "El vehículo que está en primer lugar en dirección de la marcha de los mismos.",
+            "opcion4": "Siguiendo la marcha de los vehículos, el primero de la fila, que es por donde llega el cliente.",
+            "pregunta": "Los Auto-Taxis aparcados en cordón en cada momento en la parada de que se trate tomarán a los viajeros en el siguiente orden:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "normativa"
+        },
+        {
+            "id": 224,
+            "opcion1": "Plano y callejero de la ciudad.",
+            "opcion2": "Carnet profesional expedido por el Ayuntamiento.",
+            "opcion3": "Libro de Reclamaciones según modelo oficial.",
+            "opcion4": "Resguardo de cotización al Régimen General de la Seguridad Social si es trabajador asalariado.",
+            "pregunta": "Durante la prestación del servicio el conductor irá provisto de la siguiente documentación:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 225,
+            "opcion1": "Inspección Técnica de Vehículos.",
+            "opcion2": "De los Servicios Técnicos Municipales.",
+            "opcion3": "De ambos.",
+            "opcion4": "De ambos y de los Servicios Técnicos de la Consejería de Industria del Principado.",
+            "pregunta": "No se podrá poner en servicio ningún vehículo sin la previa revisión de:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 226,
+            "opcion1": "Por falta leve.",
+            "opcion2": "Solo por falta grave.",
+            "opcion3": "Solo por falta muy grave.",
+            "opcion4": "Por falta grave o muy grave.",
+            "pregunta": "La retirada definitiva de la Licencia o carnet profesional de conductor es sanción que se podrá aplicar:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "normativa"
+        },
+        {
+            "id": 229,
+            "opcion1": "Hasta que el titular tenga una antigüedad superior a tres años.",
+            "opcion2": "Hasta que el titular tenga una antigüedad superior a seis años.",
+            "opcion3": "Hasta que el titular tenga una antigüedad superior a diez años.",
+            "opcion4": "Todas las respuestas anteriores son falsas.",
+            "pregunta": "La Transmisión de una licencia de Auto-Taxi no podrá efectuarse en ningún caso:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "normativa"
+        },
+        {
+            "id": 234,
+            "opcion1": "Cuando lo lleve como mínimo cinco taxis.",
+            "opcion2": "Cuando lo lleve como mínimo diez taxis.",
+            "opcion3": "Cuando lo lleve como mínimo quince taxis.",
+            "opcion4": "Cuando lo lleve como mínimo veinte taxis.",
+            "pregunta": "¿Cuándo podrán llevar los Auto-Taxis publicidad en el exterior de los mismos?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 238,
+            "opcion1": "En la parada obligatoria por semáforos en rojo.",
+            "opcion2": "Cuando durante el servicio con viajeros se pare a repostar carburante.",
+            "opcion3": "En el momento que le requieran un servicio.",
+            "opcion4": "En parada de espera ante un paso a nivel con barreras.",
+            "pregunta": "¿Cuándo el conductor de vehículo Auto-Taxi debe proceder a poner el aparato taxímetro en punto muerto?",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 240,
+            "opcion1": "Los conductores asalariados de titulares de licencia de auto taxi y las personas naturales que la obtengan mediante concurso.",
+            "opcion2": "Solamente las personas naturales que la obtengan mediante concurso.",
+            "opcion3": "Solamente los conductores asalariados.",
+            "opcion4": "Aquellas personas que ya sean poseedores de alguna licencia de Auto-Taxi.",
+            "pregunta": "¿Quién podrá solicitar licencia de Auto-Taxi? (ART 12)",
+            "respuesta_correcta": "opcion1",
+            "tipo": "normativa"
+        },
+        {
+            "id": 243,
+            "opcion1": "Las faltas leves.",
+            "opcion2": "Las faltas graves.",
+            "opcion3": "Solamente a las faltas muy graves.",
+            "opcion4": "Las faltas graves o muy graves.",
+            "pregunta": "La retirada definitiva de la licencia o del carnet profesional de conductor es sanción que se podrá aplicar a: (ART 47)",
+            "respuesta_correcta": "opcion4",
+            "tipo": "normativa"
+        },
+        {
+            "id": 244,
+            "opcion1": "Podrán ser conducidos por cualquier persona.",
+            "opcion2": "Solo podrán ser conducidos por aquellas personas que tengan carnet de conducir superior al 'B'.",
+            "opcion3": "Podrán ser conducidos por cualquier persona que cuente con autorización de la Dirección General de Transportes de la Comunidad Autónoma del Principado de Asturias.",
+            "opcion4": "Deberán ser conducidos exclusivamente por quien se halle en posesión del correspondiente carnet profesional expedido por el Ayuntamiento.",
+            "pregunta": "¿Los vehículos de Auto-Taxi conforme a lo establecido en la Ordenanza Municipal?",
+            "respuesta_correcta": "opcion4",
+            "tipo": "normativa"
+        },
+        {
+            "id": 245,
+            "opcion1": "No se indicará de ninguna forma.",
+            "opcion2": "Mediante un cartel en el que consta la situación de libre, situado a través del parabrisas.",
+            "opcion3": "Mediante un letrero luminoso compuesto por cuatro compartimentos, siendo el piloto de luz verde, situado a la izquierda del dispositivo frontal el que indique que el taxi está libre.",
+            "opcion4": "Las dos respuestas anteriores son correctas.",
+            "pregunta": "¿Cómo se indicará la situación de 'Libre' en los Auto-Taxis en el Término municipal de Gijón? (ART 33)",
+            "respuesta_correcta": "opcion4",
+            "tipo": "normativa"
+        },
+        {
+            "id": 249,
+            "opcion1": "Resguardo de Cotización al Régimen Especial de Autónomos o al Régimen General de la Seguridad Social, según sean autónomos o asalariados.",
+            "opcion2": "Póliza de seguro en vigor.",
+            "opcion3": "Un ejemplar de la Ordenanza Municipal de Auto-Taxi vigente en el Ayuntamiento.",
+            "opcion4": "Carnet de conducir de la clase exigida por el código de circulación.",
+            "pregunta": "Durante la prestación del servicio los conductores no será necesario que vayan provistos de: (ART 32)",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 250,
+            "opcion1": "Ambas serán fijadas por el Ayuntamiento.",
+            "opcion2": "Ambas serán fijadas por La Comunidad Autónoma.",
+            "opcion3": "Las referidas al servicio urbano se fijarán por el Ayuntamiento, y las de carácter interurbano por la Comunidad Autónoma.",
+            "opcion4": "Ninguna de las anteriores respuestas es correcta.",
+            "pregunta": "Las tarifas aplicables al servicio urbano e interurbano se fijarán: (ART 24)",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 253,
+            "opcion1": "Cuando se deje de prestar servicio al público durante 20 días consecutivos o 50 alternos durante el periodo de un año.",
+            "opcion2": "Cuando el titular de la licencia no tenga concertada la póliza de seguros, o esta no se encuentre en vigor.",
+            "opcion3": "Cuando se contrate personal asalariado aunque este cuente con carnet profesional otorgado por el Ayuntamiento.",
+            "opcion4": "Cuando se transfiera la licencia.",
+            "pregunta": "¿Cuándo podrá el Ayuntamiento revocar y retirar las licencias de Auto-Taxi a sus titulares?: (AET 43)",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 256,
+            "opcion1": "Falta leve.",
+            "opcion2": "Falta muy grave.",
+            "opcion3": "Falta grave.",
+            "opcion4": "No se considera falta.",
+            "pregunta": "El incumplir con el horario de descanso y vacacional será considerado: (ART 30)",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 257,
+            "opcion1": "Nunca.",
+            "opcion2": "Sí, siempre lo contrate con las Cooperativas de Taxi.",
+            "opcion3": "Sí, siempre que lo estime conveniente.",
+            "opcion4": "No sería una práctica ilegal.",
+            "pregunta": "¿Puede el Ayuntamiento establecer obligatoriamente la prestación de servicios de Auto-Taxi en áreas, zonas o paradas del concejo en horas determinadas del día o de la noche?: (ART 31)",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 339,
+            "opcion1": "Plano y callejero de la ciudad.",
+            "opcion2": "Carnet profesional expedido por el Ayuntamiento.",
+            "opcion3": "Libro de Reclamaciones según modelo oficial.",
+            "opcion4": "Resguardo de Cotización al Régimen General de la Seguridad Social si es trabajador asalariado.",
+            "pregunta": "Durante la prestación de un servicio el conductor irá provisto de la siguiente documentación, referida al conductor:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 421,
+            "opcion1": "No tenemos obligación de darlo.",
+            "opcion2": "Si el servicio es de radio-emisora que pase a recogerlo por central.",
+            "opcion3": "Sí tenemos obligación de darlo.",
+            "opcion4": "Esto no es un supermercado.",
+            "pregunta": "En caso de que nos pidan un justificante del importe del servicio:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 422,
+            "opcion1": "Llamar a una grúa.",
+            "opcion2": "Pedir un taxi para los clientes.",
+            "opcion3": "Interesarse por los clientes.",
+            "opcion4": "Cobrar el servicio descontando la bajada de bandera.",
+            "pregunta": "Durante el transcurso de un servicio, si tenemos un accidente, lo primero que haríamos sería:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "normativa"
+        },
+        {
+            "id": 423,
+            "opcion1": "Urbana.",
+            "opcion2": "Interurbana.",
+            "opcion3": "Indistintamente.",
+            "opcion4": "Ninguna de las anteriores.",
+            "pregunta": "Si tenemos que trasladar a un cliente desde el centro de la ciudad al Centro Marítimo Jovellanos en Veranes, debemos aplicar la tarifa de:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "normativa"
+        },
+        {
+            "id": 2,
+            "opcion1": "C/ Ezcurdia, números 30 al 36.",
+            "opcion2": "C/ Premio Real.",
+            "opcion3": "C/ Anselmo Cifuentes",
+            "opcion4": "C/Marques de San Esteban",
+            "pregunta": "La Agencia Tributaria se Halla en:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 3,
+            "opcion1": "Paseo del Muro.",
+            "opcion2": "Plaza del Marques.",
+            "opcion3": "Plaza de Europa.",
+            "opcion4": "Instituto.",
+            "pregunta": "¿En qué dirección se encuentra el Museo Palacio Revillagigedo?",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 4,
+            "opcion1": "Instituto.",
+            "opcion2": "Francisco Tomas y Valiente.",
+            "opcion3": "Castropol.",
+            "opcion4": "Puerto de Palo.",
+            "pregunta": "Una de las siguientes calles es peatonal:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 5,
+            "opcion1": "Méjico.",
+            "opcion2": "Valladolid.",
+            "opcion3": "Corrida.",
+            "opcion4": "Francisco Tomas y Valiente.",
+            "pregunta": "Una de las siguientes calles no es peatonal:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 6,
+            "opcion1": "Martinez Marina.",
+            "opcion2": "Tomás Zarracina.",
+            "opcion3": "Francisco Tomas y Valiente.",
+            "opcion4": "León.",
+            "pregunta": "Una de las siguientes calles no es peatonal:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 7,
+            "opcion1": "Entre las calles Reconquista y Ramón y Cajal.",
+            "opcion2": "Entre las calles León XIII y Alfonso Camín.",
+            "opcion3": "Entre las calles Enrique Martínez y Alarcón.",
+            "opcion4": "Entre las calles Magnus Blistad u Avda. Portugal.",
+            "pregunta": "La C/ La Felguera se encuentra entre:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 8,
+            "opcion1": "C/ San Jose.",
+            "opcion2": "Plaza del Padre Máximo.",
+            "opcion3": "Avda. del Molinón.",
+            "opcion4": "C/ Celestino Junquera.",
+            "pregunta": "La Comisaría de la Policía Nacional se encuentra en:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 9,
+            "opcion1": "Poeta Alfonso Camín.",
+            "opcion2": "C/ Juan Alvargonzalez.",
+            "opcion3": "Avda. del Llano.",
+            "opcion4": "C/ Orán.",
+            "pregunta": "El Centro de Salud del Llano se encuentra en la calle:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 10,
+            "opcion1": "Santurio.",
+            "opcion2": "Cabueñes.",
+            "opcion3": "Somio.",
+            "opcion4": "Deva.",
+            "pregunta": "Si un cliente le solicita que le lleve al Parque Científico y Tecnológico de Gijón, rendirá viaje en la parroquia de:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 11,
+            "opcion1": "Polígono Industrial 1 de Porceyo.",
+            "opcion2": "Polígono Industrial de Roces nº 5.",
+            "opcion3": "Polígono Industrial de Bankunión I.",
+            "opcion4": "Polígono Industrial de Roces nº 4.",
+            "pregunta": "La Inspección Técnica de Vehículos se encuentra en las proximidades del:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 12,
+            "opcion1": "Roces.",
+            "opcion2": "Mareo.",
+            "opcion3": "Granda.",
+            "opcion4": "Porceyo.",
+            "pregunta": "El Matadero Municipal lo encontraremos en:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 13,
+            "opcion1": "Contrueces.",
+            "opcion2": "Tremañes.",
+            "opcion3": "Somio.",
+            "opcion4": "Caldones.",
+            "pregunta": "El Albergue Palacio San Andrés de Cornellana está situado en:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 25,
+            "opcion1": "Somio.",
+            "opcion2": "Tremañes.",
+            "opcion3": "Veriña.",
+            "opcion4": "Jove.",
+            "pregunta": "El Camino del Pontón se encuentra en:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 26,
+            "opcion1": "Luanco.",
+            "opcion2": "Infiesto.",
+            "opcion3": "Perlora.",
+            "opcion4": "Nava.",
+            "pregunta": "¿Qué calle accede a la calle Avenida de Portugal?",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 27,
+            "opcion1": "Dr. Aquilino Hurle.",
+            "opcion2": "Calle Adosinda.",
+            "opcion3": "Calle Adaro.",
+            "opcion4": "Calle Aleson.",
+            "pregunta": "Por la Avenida de la Costa accedemos a:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 28,
+            "opcion1": "Corrida e Instituto.",
+            "opcion2": "Corrida y Plz. Marqués.",
+            "opcion3": "Corrida y Valladolid.",
+            "opcion4": "Marqués de San Esteban y Valladolid.",
+            "pregunta": "La calle Trinidad está situada entre las calles:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 29,
+            "opcion1": "Príncipe y Alejandro Farnesio.",
+            "opcion2": "Federica Montseny y Gran Capitán.",
+            "opcion3": "Príncipe de Asturias y Gran Capitán.",
+            "opcion4": "Gran Capitán y Alameda de Jove.",
+            "pregunta": "La calle Brasil está entre las calles:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 30,
+            "opcion1": "Calle Murcia.",
+            "opcion2": "Calle Gaspar García Laviana.",
+            "opcion3": "Calle Severo Ochoa.",
+            "opcion4": "Calle Aragón.",
+            "pregunta": "Por la calle Álava accedemos a:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 53,
+            "opcion1": "Edificio de la Casa del Mar, en Avda. del Príncipe de Asturias.",
+            "opcion2": "Edificio de la Casa del Mar, en Avda. de Eduardo Castro.",
+            "opcion3": "C/ Padre Manjón nº 1.",
+            "opcion4": "C/ Ateneo Obrero.",
+            "pregunta": "El Ateneo de la Calzada se encuentra en:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 54,
+            "opcion1": "C/ Antonio Machado.",
+            "opcion2": "C/ General Gutiérrez Mellado.",
+            "opcion3": "C/ Vicente Aleixandre.",
+            "opcion4": "C/ Pío Baroja.",
+            "pregunta": "Una de las siguientes calles no se encuentra en la misma zona que el resto de las citadas:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 55,
+            "opcion1": "Avda. de Manuel Llaneza (pasadizo que comunica con la Avda. Constitución).",
+            "opcion2": "Avda. de Eduardo Castro, 87.",
+            "opcion3": "Urbanización de la Playa del Arbeyal.",
+            "opcion4": "C/ Magnus Blikstad, 85.",
+            "pregunta": "La Empresa Municipal de Aguas se encuentra en:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 56,
+            "opcion1": "Camino Viejo del Musel.",
+            "opcion2": "Avda. Juan Carlos I.",
+            "opcion3": "Jove del Medio.",
+            "opcion4": "Avda. Príncipe de Asturias.",
+            "pregunta": "La Empresa Municipal de Aguas (E.M.A.) tiene su sede en:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 57,
+            "opcion1": "C/ Murcia, C/ Baleares, C/ Severo Ochoa y C/ Cataluña.",
+            "opcion2": "C/ Murcia, C/ Alava, C/ Severo Ochoa y C/ Cataluña.",
+            "opcion3": "C/ Guipúzcoa, C/ Baleares, C/ Severo Ochoa, y C/ Cataluña.",
+            "opcion4": "C/ Guipúzcoa, C/ Severo Ochoa, C/ Andalucía y C/ Cataluña.",
+            "pregunta": "El parque de Severo Ochoa se encuentra delimitado por:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 58,
+            "opcion1": "Socorro y Rioja.",
+            "opcion2": "Esperanza y Bazán.",
+            "opcion3": "Silencio y Estadillo.",
+            "opcion4": "Silencio y Esperanza.",
+            "pregunta": "La calle Pureza es paralela a las calles:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 59,
+            "opcion1": "Somió - La Pipa.",
+            "opcion2": "Somió - La Corolla.",
+            "opcion3": "Avda. de Torcuato Fernández Miranda.",
+            "opcion4": "Somió, Plaza de Villamanín.",
+            "pregunta": "El Centro de Salud denominado 'El Parque-Somió', se encuentra en:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 60,
+            "opcion1": "C/ Manuel R. Álvarez.",
+            "opcion2": "C/ Ramón y Cajal.",
+            "opcion3": "C/ Severo Ochoa.",
+            "opcion4": "C/ Brasil.",
+            "pregunta": "Una de las siguientes vías es de dirección única:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 61,
+            "opcion1": "Miguel Hernández, Gerardo Diego, Dámaso Alonso, Luis Cernuda.",
+            "opcion2": "Jorge Guillén, Carmen Conde, Antonio Machado, Rafael Alberdi.",
+            "opcion3": "Dámaso Alonso, Federico García Lorca, Vicente Aleixandre, Pedro Salinas.",
+            "opcion4": "Fontaneros, Esmaltadores, Calafates, Torneros.",
+            "pregunta": "En uno de los grupos de calles siguientes, hay una calle que no guarda relación con el resto (no pertenece al mismo barrio):",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 62,
+            "opcion1": "Trinidad.",
+            "opcion2": "Pza. de Jovellanos.",
+            "opcion3": "Pza. de Villamanín.",
+            "opcion4": "La Güelga, pueblo de Asturias.",
+            "pregunta": "El Museo Barjola se encuentra en la calle:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 63,
+            "opcion1": "San Bernardo, Munuza, Moros, Usandizaga.",
+            "opcion2": "Don Quijote, Feijoo, Quevedo, Hermanos Felgueroso.",
+            "opcion3": "Alarcón, Gral. Suárez Valdés, Anselmo Solar, Enrique Martínez.",
+            "opcion4": "Martínez Marina, Instituto, Fernández Vallín, Libertad.",
+            "pregunta": "Señala el grupo de calles en el que alguna de ellas no sea de dirección única:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 64,
+            "opcion1": "C/ Avelino Glez. Mallada.",
+            "opcion2": "Avda. de Gaspar García Laviana.",
+            "opcion3": "En la Universidad Laboral.",
+            "opcion4": "Salvador Moreno.",
+            "pregunta": "El Conservatorio de Música de Gijón se localiza en:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 81,
+            "opcion1": "Maestro Amado Morán.",
+            "opcion2": "Francisco Carantoña Dubert.",
+            "opcion3": "Manuel Junquera.",
+            "opcion4": "Domingo García de la Fuente.",
+            "pregunta": "¿Cuál de las siguientes calles está en el barrio de la Calzada?",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 82,
+            "opcion1": "Uruguay.",
+            "opcion2": "Hernán Cortés.",
+            "opcion3": "Camino de Rubín.",
+            "opcion4": "Luanco.",
+            "pregunta": "De las que se citan seguidamente, la calle más próxima al Centro de Salud de la Calzada:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 83,
+            "opcion1": "Moreda.",
+            "opcion2": "Poblado de Santa Bárbara.",
+            "opcion3": "Viesques.",
+            "opcion4": "Montevil.",
+            "pregunta": "La calle del Teniente General Gutiérrez Mellado se encuentra en:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 84,
+            "opcion1": "Cienfuegos.",
+            "opcion2": "Campo Sagrado.",
+            "opcion3": "Fray Ceferino González.",
+            "opcion4": "Avd. de Manuel Llaneza.",
+            "pregunta": "Una de las siguientes calles no accede a la Avda. Hermanos Felgueroso:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 85,
+            "opcion1": "Campo Sagrado.",
+            "opcion2": "San Rafael.",
+            "opcion3": "Laviana.",
+            "opcion4": "San Francisco de Asís.",
+            "pregunta": "Una de las siguientes calles accede a la Avenida Hermanos Felgueroso:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 86,
+            "opcion1": "Los Ángeles.",
+            "opcion2": "General Suárez Valdés.",
+            "opcion3": "Balmes.",
+            "opcion4": "Usandizaga.",
+            "pregunta": "Se accede al Centro Municipal de El Coto desde la calle:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 87,
+            "opcion1": "Contrueces.",
+            "opcion2": "La Calzada.",
+            "opcion3": "La Arena.",
+            "opcion4": "Pumarín.",
+            "pregunta": "La Comandancia de la Guardia Civil se encuentra en el barrio de:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 88,
+            "opcion1": "Antonio Cabanillas.",
+            "opcion2": "San Rafael.",
+            "opcion3": "Avda. de Pablo Iglesias.",
+            "opcion4": "Sagrado Corazón.",
+            "pregunta": "El sentido de la circulación en la Avda. Hermanos Felgueroso cambia en la confluencia de dicha vía con la de:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 89,
+            "opcion1": "Avda. Argentina - Avda. Galicia - C/ Mariano Pola - C/ Marqués de San Esteban - C/ Pedro Duro - Avda. de la Costa - Avda. Schulz - C/ Pérez de Ayala - Avda. del Llano.",
+            "opcion2": "Avda. Argentina - Avda. Galicia - C/ Mariano Pola - C/ Carlos Marx - C/ Pérez de Ayala - Avda. del Llano.",
+            "opcion3": "Avda. Argentina - Avda. Príncipe de Asturias - Avda. de la Constitución - Avda. De Manuel Llaneza - Avda. Schulz - C/ Pérez de Ayala - Avda. del Llano.",
+            "opcion4": "Avda. Argentina - Avda. Príncipe de Asturias - Avda. Gaspar García Laviana - Avda. del Llano.",
+            "pregunta": "Señale el recorrido más adecuado, de entre los propuestos, para el traslado de un viajero desde el Centro Municipal de Empresas al centro comercial Los Fresnos:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 90,
+            "opcion1": "La Calle Manuel Junquera.",
+            "opcion2": "Cabueñes, barrio de Cimadevilla.",
+            "opcion3": "Cabueñes, barrio del Alto del Infanzón.",
+            "opcion4": "La Calle Uría.",
+            "pregunta": "Para un traslado al Hospital de la Cruz Roja, deberá dirigirse a:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 91,
+            "opcion1": "Manuel Martínez Blanco.",
+            "opcion2": "Laviada.",
+            "opcion3": "Alejandro Casona.",
+            "opcion4": "Miguel de Cervantes.",
+            "pregunta": "La piscina Municipal de El Llano se encuentra en las proximidades del Colegio Público:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 92,
+            "opcion1": "El Llano.",
+            "opcion2": "Pumarin.",
+            "opcion3": "Centro.",
+            "opcion4": "Natahoyo.",
+            "pregunta": "¿Dónde se encuentra la C/ Joaquín Alonso Bonet?",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 93,
+            "opcion1": "Calle Cirujeda.",
+            "opcion2": "San Francisco de Asís.",
+            "opcion3": "San Juan de la Cruz.",
+            "opcion4": "Ninguna de las anteriores",
+            "pregunta": "Indica cuál de las siguientes calles es peatonal:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 94,
+            "opcion1": "Calle Cabrales (antigua pescadería).",
+            "opcion2": "Calle Jovellanos (antiguo Instituto Jovellanos).",
+            "opcion3": "Calzada (Ateneo Obrero).",
+            "opcion4": "Calle Industrias (IFES).",
+            "pregunta": "La sede central de la Universidad Popular se encuentra en:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 95,
+            "opcion1": "Roces.",
+            "opcion2": "Porceyo.",
+            "opcion3": "Tremañes.",
+            "opcion4": "Prendes.",
+            "pregunta": "El polígono de Falmuria se encuentra en:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 96,
+            "opcion1": "Muelle de Oriente.",
+            "opcion2": "Muelle de la Osa.",
+            "opcion3": "Muelle Príncipe de Asturias.",
+            "opcion4": "Muelle de Rendiello.",
+            "pregunta": "Si tenemos que trasladar a un cliente al muelle pesquero iremos a:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 97,
+            "opcion1": "Sí.",
+            "opcion2": "No.",
+            "opcion3": "Sí, pero cobrando media hora.",
+            "opcion4": "No, por ser de la 'ORA'.",
+            "pregunta": "En la C/ Cabrales podemos esperar a un cliente:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 112,
+            "opcion1": "Plaza de Compostela.",
+            "opcion2": "Plaza de la Corrada.",
+            "opcion3": "Plaza del Carmen.",
+            "opcion4": "En ninguna de las anteriores.",
+            "pregunta": "Indique en qué plaza se encuentra una parada de Auto-Taxi:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 113,
+            "opcion1": "Calle Pedro Duro.",
+            "opcion2": "Calle Linares Rivas.",
+            "opcion3": "Calle Fundición.",
+            "opcion4": "Avenida del Llano.",
+            "pregunta": "Indique la dirección correcta del Hotel Gijón:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 114,
+            "opcion1": "Entre las calles La Merced y Jovellanos.",
+            "opcion2": "Entre Alfredo Truhán y Paseo de Begoña.",
+            "opcion3": "Entre Hurle y Emilio Tuya.",
+            "opcion4": "Entre Plaza de Europa y Carretera de la Costa.",
+            "pregunta": "Donde esta situada la Plaza de Nicanor Piñole:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 128,
+            "opcion1": "En Roces.",
+            "opcion2": "En Porceyo.",
+            "opcion3": "En Tremañes.",
+            "opcion4": "En Veriña.",
+            "pregunta": "¿En qué zona se encuentra el polígono industrial de Máximo Vega?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 129,
+            "opcion1": "La Avenida de la Argentina.",
+            "opcion2": "La calle Ramón Areces.",
+            "opcion3": "La Avenida de Salvador Allende.",
+            "opcion4": "Calle Carlos III.",
+            "pregunta": "El Centro Municipal Gijón Sur está situado en:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 135,
+            "opcion1": "Montevil.",
+            "opcion2": "Viesques.",
+            "opcion3": "Nuevo Gijón.",
+            "opcion4": "El Llano.",
+            "pregunta": "La plaza de Jacques Ives Cousteau está en la zona de:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 136,
+            "opcion1": "Plaza Mayor.",
+            "opcion2": "Calle Instituto.",
+            "opcion3": "Paseo Doctor Fleming.",
+            "opcion4": "Avenida Profesor Pérez Pimentel.",
+            "pregunta": "¿Dónde está situado el Palacio de Congresos?",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 139,
+            "opcion1": "C/ Alvarez Garaya.",
+            "opcion2": "C/ Ramón Areces.",
+            "opcion3": "C/ Doctor Aquilino Hurlé.",
+            "opcion4": "C/ Marques de Casa Valdes.",
+            "pregunta": "Indique en qué ubicación no existe una parada de Auto-Taxi:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 145,
+            "opcion1": "Calle Balmes.",
+            "opcion2": "Calle Leopoldo Alas.",
+            "opcion3": "Calle Calderón de la Barca.",
+            "opcion4": "Calle Avelino González Mallada.",
+            "pregunta": "Indique la calle que accede a la Avenida Pablo Iglesias:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 146,
+            "opcion1": "Está situado en la Calle Orán.",
+            "opcion2": "Está situado en la Avenida Príncipe de Asturias.",
+            "opcion3": "Está situado en la Calle Peña Ubiña.",
+            "opcion4": "Está situado en la Calle Río Eo.",
+            "pregunta": "Sitúe el Ambulatorio de Pumarín:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 147,
+            "opcion1": "El Llano.",
+            "opcion2": "La Arena.",
+            "opcion3": "La Calzada.",
+            "opcion4": "Natahoyo.",
+            "pregunta": "Indique en qué barrio está situado el Parque de la Fábrica de Loza:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 148,
+            "opcion1": "Avenida Schulz.",
+            "opcion2": "Calle Ceán Bermúdez.",
+            "opcion3": "Calle Pérez de Ayala.",
+            "opcion4": "Calle Saavedra.",
+            "pregunta": "Indique la calle que no accede a la Avenida Manuel Llaneza:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 149,
+            "opcion1": "Calle Pablo Iglesias.",
+            "opcion2": "Calle Emilio Tuya.",
+            "opcion3": "Calle Anselmo Cifuentes.",
+            "opcion4": "Calle Llanes.",
+            "pregunta": "Indique la situación de la Oficina del Catastro de Gijón:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 150,
+            "opcion1": "En el Paseo de Begoña.",
+            "opcion2": "En la Avenida Constitución.",
+            "opcion3": "En el recinto de la Feria de Muestras.",
+            "opcion4": "En el Parque Isabel la Católica.",
+            "pregunta": "¿Dónde está situada la Escultura 'El Obelisco'?",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 151,
+            "opcion1": "Calle Llanes-Calle Sanz Crespo-Calle Alvarez Garaya-Calle Felipe Menéndez- Calle Rodríguez San Pedro-Playa de Poniente.",
+            "opcion2": "Calle Luanco-Calle Sanz Crespo-Calle Alvarez Garaya-Calle Pedro Duro- Calle Felipe Menéndez-Calle Rodríguez San Pedro-Playa de Poniente.",
+            "opcion3": "Calle Llanes-Calle Sanz Crespo-Calle Alvarez Garaya-Calle Pedro Duro- Calle Felipe Menéndez-Avenida Rufo García Rendueles-Playa de Poniente.",
+            "opcion4": "Calle Luanco-Calle Sanz Crespo-Calle Alvarez Garaya-Calle Marqués de Casa Valdés-Calle Claudio Álvarez González-Playa de Poniente.",
+            "pregunta": "Indique el recorrido correcto para ir desde la Estación de Alsa al Acuario de Gijón:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 152,
+            "opcion1": "Plaza de Europa.",
+            "opcion2": "Plaza del Carmen.",
+            "opcion3": "Plaza de la Estación del Norte.",
+            "opcion4": "Plaza de la República.",
+            "pregunta": "¿Dónde está situado el Museo del Ferrocarril de Asturias?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 153,
+            "opcion1": "Calle Ramón Areces.",
+            "opcion2": "Calle General Suárez Valdés.",
+            "opcion3": "Carretera Carbonera.",
+            "opcion4": "Calle Menéndez Pelayo.",
+            "pregunta": "Indique la parada de Taxi más cercana al Centro Municipal Gijón-'Sur':",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 154,
+            "opcion1": "AS-248.",
+            "opcion2": "AS-247.",
+            "opcion3": "AS-1.",
+            "opcion4": "AS-19.",
+            "pregunta": "Indique la denominación de la Carretera Gijón - Avilés:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 155,
+            "opcion1": "Deva.",
+            "opcion2": "Santurio.",
+            "opcion3": "La Abadía de Cenero.",
+            "opcion4": "Porceyo.",
+            "pregunta": "¿En qué parroquia rural se encuentra la Villa Romana de Veranes?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 156,
+            "opcion1": "El Natahoyo.",
+            "opcion2": "El Coto.",
+            "opcion3": "Viesques.",
+            "opcion4": "El Cerillero.",
+            "pregunta": "¿Me sabrías decir dónde se encuentra la Plaza de Compomanes?",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 157,
+            "opcion1": "La Calle Corrida.",
+            "opcion2": "La Calle León.",
+            "opcion3": "La Calle Segovia.",
+            "opcion4": "La Calle Orestes Menéndez.",
+            "pregunta": "De las siguientes calles, ¿di la que no es peatonal?",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 158,
+            "opcion1": "Calle La Merced.",
+            "opcion2": "La Calle Corrida.",
+            "opcion3": "Calle León XIII.",
+            "opcion4": "Calle Enrique III.",
+            "pregunta": "De las siguientes calles, ¿di la que no es peatonal?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 159,
+            "opcion1": "Polígono de Bankunión 2.",
+            "opcion2": "Poblado de La Camocha.",
+            "opcion3": "Polígono de la Mora Garay.",
+            "opcion4": "Poblado de Santa Bárbara.",
+            "pregunta": "La calle Juán de la Cierva se encuentra en:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 160,
+            "opcion1": "Plaza Mayor (Antiguo Hotel Madrid).",
+            "opcion2": "C/ Ezcurdia.",
+            "opcion3": "C/ Anselmo Cifuentes (Delegación de Hacienda).",
+            "opcion4": "Plaza de Piñole.",
+            "pregunta": "La Oficina de Gestión Tributaria, Consejería de Economía se encuentra en:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 165,
+            "opcion1": "Porceyo.",
+            "opcion2": "Serín.",
+            "opcion3": "Cenero.",
+            "opcion4": "La Pedrera.",
+            "pregunta": "El Centro de Seguridad Marítima 'Jovellanos', se encuentra en la parroquia de:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 166,
+            "opcion1": "Ceares.",
+            "opcion2": "La Arena.",
+            "opcion3": "El Coto.",
+            "opcion4": "El Llano.",
+            "pregunta": "Para un traslado al Sanatorio de Covadonga, deberá dirigirse al Barrio de:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 168,
+            "opcion1": "Maria Zambrano.",
+            "opcion2": "Margarita Sirgu.",
+            "opcion3": "Gabriela Mistral.",
+            "opcion4": "Perú.",
+            "pregunta": "De estas calles, ¿cuál es peatonal?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 170,
+            "opcion1": "De doble dirección.",
+            "opcion2": "De dirección única desde C/ León XIII a Avda. Hnos. Felgueroso.",
+            "opcion3": "De dirección única desde Avda. Hnos. Felgueroso a C/ León XIII.",
+            "opcion4": "Peatonal.",
+            "pregunta": "La calle Jesús es:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 176,
+            "opcion1": "C/ Artillería.",
+            "opcion2": "C/ Fuerte Viejo.",
+            "opcion3": "C/ Trinidad.",
+            "opcion4": "C/ Subida al Cerro.",
+            "pregunta": "Si un cliente nos solicita que le enseñemos la escultura del 'Noroeste' le llevaremos a:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 177,
+            "opcion1": "C/ Celestino Junquera.",
+            "opcion2": "Estadio del Molinon.",
+            "opcion3": "Plaza Padre Máximo González.",
+            "opcion4": "C/ Mariano Pola.",
+            "pregunta": "Si un cliente le solicita que le traslade a las oficinas del Documento Nacional de Identidad debe dirigirse a:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 179,
+            "opcion1": "C/ Instituto.",
+            "opcion2": "Avda. Doctor Fleming.",
+            "opcion3": "Avda. del Molinon.",
+            "opcion4": "Ctra. Del Piles al Infanzón, al lado de la Feria de Muestras.",
+            "pregunta": "Si le solicitan un servicio a la Cámara Oficial de Comercio, Industria y Navegación de Gijón, se dirigirá a:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 183,
+            "opcion1": "C/ Max Planck.",
+            "opcion2": "Juan de la Cierva.",
+            "opcion3": "San Juan.",
+            "opcion4": "Poeta Ángel González Muñiz.",
+            "pregunta": "Cúal de las siguientes calles está en el Polígono de Roces (Sector 5):",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 184,
+            "opcion1": "Lope de Vega.",
+            "opcion2": "Adolfo Vega.",
+            "opcion3": "Balmes.",
+            "opcion4": "Cirujeda.",
+            "pregunta": "Una de las siguientes calles no accede a la C/ Ramón y Cajal:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 188,
+            "opcion1": "C/ Artillería.",
+            "opcion2": "C/ Fuerte Viejo.",
+            "opcion3": "C/ Trinidad.",
+            "opcion4": "C/ Subida al Cerro.",
+            "pregunta": "Si un cliente nos solicita que le enseñemos la escultura del 'Noroeste' le llevaremos a:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 189,
+            "opcion1": "C/ Celestino Junquera.",
+            "opcion2": "Estadio del Molinon.",
+            "opcion3": "Plaza Padre Máximo González.",
+            "opcion4": "C/ Mariano Pola.",
+            "pregunta": "Si un cliente le solicita que le traslade a las oficinas del Documento Nacional de Identidad debe dirigirse a:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 191,
+            "opcion1": "C/ Instituto.",
+            "opcion2": "Avda. Doctor Fleming.",
+            "opcion3": "Avda. del Molinon.",
+            "opcion4": "Ctra. Del Piles al Infanzón, al lado de la Feria de Muestras.",
+            "pregunta": "Si le solicitan un servicio a la Cámara Oficial de Comercio, Industria y Navegación de Gijón, se dirigirá a:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 195,
+            "opcion1": "C/ Max Planck.",
+            "opcion2": "Juan de la Cierva.",
+            "opcion3": "San Juan.",
+            "opcion4": "Poeta Ángel González Muñiz.",
+            "pregunta": "Cúal de las siguientes calles está en el Polígono de Roces (Sector 5):",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 196,
+            "opcion1": "Lope de Vega.",
+            "opcion2": "Adolfo Vega.",
+            "opcion3": "Balmes.",
+            "opcion4": "Cirujeda.",
+            "pregunta": "Una de las siguientes calles no accede a la C/ Ramón y Cajal:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 197,
+            "opcion1": "Es de dirección única desde la Avda. de Castilla al Estadio de El Molinon.",
+            "opcion2": "Es peatonal.",
+            "opcion3": "Es de dirección única desde el Estadio de El Molinon a la Avda. de Castilla.",
+            "opcion4": "Es de circulación en ambas direcciones.",
+            "pregunta": "En la actualidad, La Avenida de Torcuato Fernández Miranda:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 198,
+            "opcion1": "De doble dirección.",
+            "opcion2": "De dirección única desde la Avda. de Hermanos Felgueroso a la C/ Ramón y Cajal.",
+            "opcion3": "De dirección única, en el sentido inverso al anterior.",
+            "opcion4": "Peatonal.",
+            "pregunta": "La calle de Campo Sagrado es:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 199,
+            "opcion1": "De doble dirección.",
+            "opcion2": "De dirección única desde C/ San Bernardo a C/ Cabrales.",
+            "opcion3": "De dirección única desde C/ Cabrales a C/ San Bernardo.",
+            "opcion4": "Es peatonal.",
+            "pregunta": "La calle Ventura Alvarez Sala es:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 202,
+            "opcion1": "La Calzada.",
+            "opcion2": "Pumarín.",
+            "opcion3": "Viesques.",
+            "opcion4": "Tremañes.",
+            "pregunta": "El lugar denominado Los Campones se sitúa en:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 203,
+            "opcion1": "C/ Colón.",
+            "opcion2": "Avda. de Schult.",
+            "opcion3": "C/ Manuel Llaneza.",
+            "opcion4": "C/ San José.",
+            "pregunta": "¿A qué calle se dirigirá Vd. si un cliente le solicita que le lleve al Servicio de Tráfico y Regulación (Edificio de Tráfico):",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 205,
+            "opcion1": "C/ Las Cruces.",
+            "opcion2": "C/ Oscar Olavarría.",
+            "opcion3": "C/ Salamanca.",
+            "opcion4": "C/ Recoletas.",
+            "pregunta": "El Archivo Municipal está ubicado en la Calle:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 206,
+            "opcion1": "En Montevil.",
+            "opcion2": "El Coto.",
+            "opcion3": "El Natahoyo.",
+            "opcion4": "Jove.",
+            "pregunta": "¿En qué lugar de Gijón se ubica la Plaza Padre Máximo González?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 207,
+            "opcion1": "En El Llano.",
+            "opcion2": "En La Calzada.",
+            "opcion3": "En Roces.",
+            "opcion4": "En La Arena.",
+            "pregunta": "¿En qué barrio se encuentra el Parque de Salvador Allende?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 208,
+            "opcion1": "Calle Caridad.",
+            "opcion2": "Calle Balbín.",
+            "opcion3": "Avenida Castilla.",
+            "opcion4": "Avenida de las Industrias.",
+            "pregunta": "Indique qué calle se encuentra en el barrio de la Calzada:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 209,
+            "opcion1": "Calle Soria.",
+            "opcion2": "Calle 27 de Diciembre.",
+            "opcion3": "Calle Salamanca.",
+            "opcion4": "Calle Valladolid.",
+            "pregunta": "¿Qué calle no es peatonal?",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 210,
+            "opcion1": "En Deva.",
+            "opcion2": "En Castiello de Bernueces.",
+            "opcion3": "En Cabueñes.",
+            "opcion4": "En Santurio.",
+            "pregunta": "¿En qué parroquia se encuentra la Iglesia de San Jorge?",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 211,
+            "opcion1": "Calle Roncal.",
+            "opcion2": "Calle Eleuterio Quintanilla.",
+            "opcion3": "Calle Río de Oro.",
+            "opcion4": "Calle Extremadura.",
+            "pregunta": "¿Qué calle cruza la Avenida Schulz?",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 212,
+            "opcion1": "Calle Infiesto.",
+            "opcion2": "Calle Mieres.",
+            "opcion3": "Calle Domingo Garcia de la Fuente.",
+            "opcion4": "Calle Soria.",
+            "pregunta": "¿Qué calle conecta con la Avenida Manuel Llaneza?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 213,
+            "opcion1": "Calle Filipinas.",
+            "opcion2": "Calle Llanes.",
+            "opcion3": "Calle Doctor Aquilino Hurlé.",
+            "opcion4": "Calle Marqués de San Esteban.",
+            "pregunta": "Indique la parada de Taxi más cercana a la Plaza de Italia:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 214,
+            "opcion1": "Calle Generál Suárez Valdés-Calle Feijo-Calle Cienfuegos-Calle Poeta Alfonso Camín-Calle Fuente del Real-Calle Pérez de Ayala.",
+            "opcion2": "Calle Avelino Gonzalez Mallada-Calle Feijo-Avenida Hermanos Felgueroso-Calle Fuente del Real-Calle Poeta Alfonso Camín-Calle Pérez de Ayala.",
+            "opcion3": "Calle Generál Suarez Valdés-Calle Feijo-Avenida Hermanos Felgueroso-Calle Fuente del Real-Calle Pérez de Ayala.",
+            "opcion4": "Calle Avelino Gonzalez Mallada-Calle Feijo-Avenida Hermanos Felgueroso-Calle Fuente del Real-Calle Pérez de Ayala.",
+            "pregunta": "Indique el itinerario correcto para llegar desde la parada de taxis más cercana al Centro Municipal del Coto a la Calle Pérez de Ayala:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 215,
+            "opcion1": "Calle San José-Avenida Schulz-Calle Bobes-Calle Espronceda-Calle Colón-Avenida Manuel Llaneza-Calle San Juan de La Cruz.",
+            "opcion2": "Calle San José-Calle Bobes-Avenida Schulz-Avenida Manuel Llaneza-Calle San Juan de la Cruz.",
+            "opcion3": "Calle San José-Calle Bobes-Calle Espronceda-Calle Custodia-Calle Colón-Avenida Manuel Llaneza-Calle San Juan de La Cruz.",
+            "opcion4": "Calle San José-Calle Bobes-Avenida Schulz-Calle Espronceda-Calle Colón-Avenida Manuel Llaneza-Calle San Juan de La Cruz.",
+            "pregunta": "Indique el itinerario correcto para llevar un cliente desde la oficina de la Policia Local a la calle San Juan de la Cruz:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 216,
+            "opcion1": "AS-248",
+            "opcion2": "AS-326",
+            "opcion3": "AS-247",
+            "opcion4": "AS-244",
+            "pregunta": "Indique la denominación de la Carretera Gijón - Pola de Siero:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 217,
+            "opcion1": "Calle Claudio Alvargonzalez.",
+            "opcion2": "Calle San Bernardo.",
+            "opcion3": "Calle Instituto.",
+            "opcion4": "Carretera Piles-Infanzón.",
+            "pregunta": "¿Dónde está situada la Camara de Comercio, Industria y Navegación de Gijón?",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 218,
+            "opcion1": "Camino de la Morena.",
+            "opcion2": "Calle Galileo Galilei.",
+            "opcion3": "Camino del Melón.",
+            "opcion4": "Calle Arquímedes.",
+            "pregunta": "Indique la dirección correcta de la Estación de la Inspección Técnica de Vehículos (ITV):",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 219,
+            "opcion1": "Carretera Piles-Infanzón.",
+            "opcion2": "Paseo del Rinconín.",
+            "opcion3": "Paseo del Doctor Fleming.",
+            "opcion4": "Carretera Gijón-Alto del Infanzón (por La Providencia).",
+            "pregunta": "¿Dónde está situado El Monumento 'A la Madre del Emigrante'?",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 222,
+            "opcion1": "Juán de la Cierva.",
+            "opcion2": "Grahan Bell.",
+            "opcion3": "Altamira.",
+            "opcion4": "Alejandro Casona.",
+            "pregunta": "¿Cuál de las siguientes calles está en el Polígono de Mora Garay?",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 223,
+            "opcion1": "Entre las calles de Reconquista y Ramón y Cajal.",
+            "opcion2": "Entre las calles Ramón y Cajal y Leopoldo Alas.",
+            "opcion3": "Entre las calles Sagrado Corazón y San Francisco de Asís.",
+            "opcion4": "Entre León XIII y Alfonso Camín.",
+            "pregunta": "La calle del Padre José María Patac se encuentra:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 227,
+            "opcion1": "Carretera de Jove s/n.",
+            "opcion2": "Avenida de Eduardo Castro.",
+            "opcion3": "Carretera al Musel s/n.",
+            "opcion4": "Avenida Principe de Asturias.",
+            "pregunta": "Si le solicitan el traslado a la Casa del Mar deberá dirigirse a:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 228,
+            "opcion1": "La Guía.",
+            "opcion2": "Cabueñes.",
+            "opcion3": "Somió.",
+            "opcion4": "La Providencia.",
+            "pregunta": "¿En qué zona de Gijón se encuentra el museo Evaristo Valle?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 230,
+            "opcion1": "C/ Rio de Oro-C/ Pérez de Ayala-Avda. del Llano-C/ 17 de Agosto-Avda. Hermanos Felgueroso-San Bernardo.",
+            "opcion2": "C/ Rio de Oro-C/ Pérez de Ayala-C/ Carlos Marx-Avda. de Portugal-C/ Llanes-C/ Sanz Crespo-C/ Alvarez Garaya-C/ Felipe Menendez-C/ Marques de San Estevan- C/ Trinidad-C/ Melquíades Alvarez.",
+            "opcion3": "C/ Rio de Oro-C/ Perez de Ayala-Avda. Schult-Ctra. La Costa-C/ Palacio Valdes- C/ Alvarez Garaya-C/ Feipe Menendez-C/ Marques de San Esteban-C/ Trinidad- C/ Melquiades Alvarez.",
+            "opcion4": "C/ Rio de Oro-C/ Perez de Ayala-Avda. Schult-Ctra. La Costa-C/ Palacio Valdes- C/ Alvarez Garaya-C/ Munuza-C/ Los Moros-C/ Jovellanos-C/ San Bernardo.",
+            "pregunta": "El recorrido más adecuado para trasladarse desde C/ Río de Oro esquina a Pérez de Ayala, al Ayuntamiento es:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 231,
+            "opcion1": "En Veriña.",
+            "opcion2": "En Tremañes.",
+            "opcion3": "En Porceyo.",
+            "opcion4": "En Roces.",
+            "pregunta": "¿En qué zona del concejo se encuentra el Centro de Transportes de Gijón?",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 232,
+            "opcion1": "Extremadura-Murcia-Baleares y Valencia.",
+            "opcion2": "Andalucia-Baleares-Cataluña y Valencia.",
+            "opcion3": "Extremadura-Murcia-Baleares y Andalucia.",
+            "opcion4": "Andalucia-Baleares-Cataluña y Murcia.",
+            "pregunta": "El Colegio Público Julián Gómez Elisburu se encuentra entre las calles:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 233,
+            "opcion1": "En Ceares.",
+            "opcion2": "En Viesques.",
+            "opcion3": "El Coto.",
+            "opcion4": "El Bibio.",
+            "pregunta": "¿En qué zona de Gijón se encuentra la C/ Tirso de Molina?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 235,
+            "opcion1": "Avenida J. Valdés Cores.",
+            "opcion2": "Avenida Pérez Pimentel.",
+            "opcion3": "Camino de Juan Castañón.",
+            "opcion4": "Plaza de Villamanín.",
+            "pregunta": "¿En qué lugar se encuentra ubicada la parada de auto-Taxis en la parroquia de Somió?",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 236,
+            "opcion1": "A la Plaza Mayor.",
+            "opcion2": "A la calle Cabrales nº2.",
+            "opcion3": "Al Muro de San Lorenzo.",
+            "opcion4": "A la calle Melquíades Alvarez.",
+            "pregunta": "Sí le solicitan un servicio al Registro Principal del Ayuntamiento de Gijón, ¿a qué lugar o edificio municipal le llevará?",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 237,
+            "opcion1": "C/ Manuel Junquera.",
+            "opcion2": "C/ Duque de Rivas.",
+            "opcion3": "C/ General Suarez Valdes.",
+            "opcion4": "C/ Don Quijote.",
+            "pregunta": "¿En qué calle está ubicado el Sanatorio de Covadonga?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 239,
+            "opcion1": "Polígono de Porceyo.",
+            "opcion2": "Polígono de Promosa.",
+            "opcion3": "Polígono de Roces.",
+            "opcion4": "Polígono de Mora-Garay.",
+            "pregunta": "¿Dónde está situado el Depósito Municipal de la Grúa?",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 241,
+            "opcion1": "Carretera Carbonera.",
+            "opcion2": "Calle Luis Moya Blanco.",
+            "opcion3": "Carretera Villaviciosa.",
+            "opcion4": "Camino de los Rosales.",
+            "pregunta": "El Parque Científico-Tecnológico de Gijón está ubicado en:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 242,
+            "opcion1": "Jove.",
+            "opcion2": "Veriña.",
+            "opcion3": "Poago.",
+            "opcion4": "La Calzada.",
+            "pregunta": "¿A qué zona nos trasladaremos para ir al Museo Arqueológico Natural Campa Torres?",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 246,
+            "opcion1": "Calle Jesús Revuelta Diego.",
+            "opcion2": "Avenida Justo del Castillo y Quintana.",
+            "opcion3": "Avenida del Molinón.",
+            "opcion4": "Plaza de Jovellanos.",
+            "pregunta": "¿El Museo Casa-Natal de Jovellanos está situado en?",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 247,
+            "opcion1": "Deva.",
+            "opcion2": "Somió.",
+            "opcion3": "Cabueñes.",
+            "opcion4": "Santurio.",
+            "pregunta": "¿En qué Parroquia está situado el Club de Golf La Llorea?",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 248,
+            "opcion1": "Al Puerto del Musel.",
+            "opcion2": "A la calle Móstoles.",
+            "opcion3": "Al camino del Arbeyal.",
+            "opcion4": "A la calle Pachín de Melas.",
+            "pregunta": "Si le solicitan el traslado al Centro Oceanográfico de Asturias deberá dirigirse a:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 251,
+            "opcion1": "Calle San José.",
+            "opcion2": "Plaza Padre Máximo González.",
+            "opcion3": "Avenida del Molinón.",
+            "opcion4": "Calle Celestino Junquera.",
+            "pregunta": "Para ir a la Comisaría de la Policía Local, nos dirigiremos a:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 252,
+            "opcion1": "Deva.",
+            "opcion2": "Bernueces.",
+            "opcion3": "Cabueñes.",
+            "opcion4": "Somió.",
+            "pregunta": "¿En qué zona está ubicado el Hospital de Cabueñes?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 254,
+            "opcion1": "Carretera Villaviciosa.",
+            "opcion2": "Avenida de Oviedo.",
+            "opcion3": "Carretera Carbonera.",
+            "opcion4": "Carretera del Obispo.",
+            "pregunta": "¿Dónde está situado el Centro de Formación de Nuevas Tecnologías?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 255,
+            "opcion1": "Pinzón.",
+            "opcion2": "Eusebio Miranda.",
+            "opcion3": "Travesía del convento.",
+            "opcion4": "Trinidad.",
+            "pregunta": "De las siguientes calles que se enumeran a continuación, ¿cuál es peatonal?",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 258,
+            "opcion1": "Calle Decano Prendes Pando.",
+            "opcion2": "Calle Federica Monseny.",
+            "opcion3": "Calle Menéndez Pelayo.",
+            "opcion4": "Calle Doctor Aquilino Hurlé.",
+            "pregunta": "¿En qué calle no existe parada de Auto-Taxi?",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 259,
+            "opcion1": "Calle Evaristo Valle.",
+            "opcion2": "Calle Garcilaso de la Vega.",
+            "opcion3": "Calle Alarcón.",
+            "opcion4": "Calle Adosinda.",
+            "pregunta": "¿Cuál de las siguientes calles no conecta con la Avenida de la Costa?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 260,
+            "opcion1": "Jardines de la Reina-C/Rodríguez San Pedro-C/Juan Carlos I-C/Mariano Pola-C/Camino de la Fábrica de Loza-C/Camino del Cortijo.",
+            "opcion2": "Jardines de la Reina-C/Rodríguez San Pedro-C/Mariano Pola-Avda. Galicia-C/Camino del Cortijo.",
+            "opcion3": "Jardines de la Reina-C/ Rodríguez San Pedro-C/Mariano Pola-Avda. Galicia-C/Lloreu.",
+            "opcion4": "Jardines de la Reina-C/Rodríguez San Pedro-C/Juan Carlos I-C/Lloreu.",
+            "pregunta": "Indique el itinerario correcto desde los Jardines de la Reina, hasta el parque de Elías Méndez Menéndez:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 261,
+            "opcion1": "C/ Orán.",
+            "opcion2": "C/ Juan Muñiz Zapico.",
+            "opcion3": "Carretera del Obispo.",
+            "opcion4": "C/ Antolín de la Fuente Cla.",
+            "pregunta": "Indique la dirección correcta de la Cooperativa Radio Taxi Gijón:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 262,
+            "opcion1": "C/ Gabriela Mistral.",
+            "opcion2": "C/ Cura Sama.",
+            "opcion3": "C/ Begoña.",
+            "opcion4": "C/ Travesía del Convento.",
+            "pregunta": "Indique cuál de las siguientes calles es peatonal:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 263,
+            "opcion1": "C/ Menéndez Pérez.",
+            "opcion2": "C/ Padilla.",
+            "opcion3": "C/ Pedro Menéndez.",
+            "opcion4": "C/ Fernández Vallín.",
+            "pregunta": "Indique la dirección correcta del Hotel Hernán Cortés:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 264,
+            "opcion1": "Pumarín.",
+            "opcion2": "Nuevo Gijón.",
+            "opcion3": "Montevil.",
+            "opcion4": "Llano.",
+            "pregunta": "¿En qué zona se encuentra la calle de Leoncio Suárez?",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 265,
+            "opcion1": "AS-245.",
+            "opcion2": "AS-246.",
+            "opcion3": "AS-247.",
+            "opcion4": "AS-248.",
+            "pregunta": "Indique la denominación correcta de la carretera del Infanzón:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 266,
+            "opcion1": "Plaza de Evaristo San Miguel.",
+            "opcion2": "Calle Cabrales.",
+            "opcion3": "Plaza de Instituto.",
+            "opcion4": "Calle del Doctor Aquilino Hurlé.",
+            "pregunta": "Señale en qué dirección se encuentra la parada más cercana a la C/ Ruiz Gómez:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 267,
+            "opcion1": "El Llano.",
+            "opcion2": "La Milagrosa.",
+            "opcion3": "Cerillero.",
+            "opcion4": "Ninguna de las anteriores.",
+            "pregunta": "Si quisiéramos ir a la calle de Alonso Quintanilla, iríamos a:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 268,
+            "opcion1": "Plaza de Fátima.",
+            "opcion2": "Plaza de Institución Libre de Enseñanza.",
+            "opcion3": "Mariano Pola.",
+            "opcion4": "Progreso.",
+            "pregunta": "¿Dónde está situada la iglesia de San Esteban del Mar?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 269,
+            "opcion1": "Paseo del Muro.",
+            "opcion2": "Ezcurdia.",
+            "opcion3": "San Juan del Valles.",
+            "opcion4": "Galileo Galilei.",
+            "pregunta": "¿Me sabes decir dónde se encuentra el Hotel Villa de Gijón?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 270,
+            "opcion1": "Calle Bazán.",
+            "opcion2": "Camino del Melón.",
+            "opcion3": "Los Campones sin número.",
+            "opcion4": "Ninguna de las anteriores.",
+            "pregunta": "Si un cliente me pide que lo lleve a la ITV de Gijón, le llevaré a:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 271,
+            "opcion1": "Paseo del Muro.",
+            "opcion2": "Ezcurdia.",
+            "opcion3": "Cabrales.",
+            "opcion4": "Marqués de San Esteban.",
+            "pregunta": "¿El Hotel Alcomar está situado en?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 272,
+            "opcion1": "Peru.",
+            "opcion2": "Oriental.",
+            "opcion3": "Uruguay.",
+            "opcion4": "Paraguay.",
+            "pregunta": "La oficina de Correos de la Calzada esta ubicada en:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 273,
+            "opcion1": "Instituto y San Bernardo.",
+            "opcion2": "Rosalia de Castro y Laboratorios.",
+            "opcion3": "Contrahacía y Santa Elena.",
+            "opcion4": "Ninguna de las tres anteriores.",
+            "pregunta": "La calle Las Mercedes se encuentra:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 274,
+            "opcion1": "Avenida de la Costa a Marques de Casa Valdes.",
+            "opcion2": "Evaristo Valle a Avenida de la Costa.",
+            "opcion3": "Marques de Casa Valdes a Avenida de la Costa.",
+            "opcion4": "Avenida de la Costa a Evaristo Valle.",
+            "pregunta": "La C/ Navarra tiene su entrada por:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 275,
+            "opcion1": "Rufo Rendueles.",
+            "opcion2": "Plaza Mayor.",
+            "opcion3": "Manso.",
+            "opcion4": "Aguado.",
+            "pregunta": "El Hotel Asturias tiene su entrada por:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 276,
+            "opcion1": "Sí, podemos entrar.",
+            "opcion2": "No, podemos entrar.",
+            "opcion3": "Tiene carril de entrada y de salida a Hermanos Felgueroso.",
+            "opcion4": "Son paralelas.",
+            "pregunta": "¿Sabrías decir, si la calle Antonio Cabanilles, podremos entrar o salir a Hermanos Felgueroso?",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 277,
+            "opcion1": "En Oviedo.",
+            "opcion2": "Tiene entrada por Ribagorza y salida hacia Juan Alvargonzalez.",
+            "opcion3": "Tiene entrada por Colon y salida a la Avenida Schulz.",
+            "opcion4": "Sería Continuación de la calle Roncal.",
+            "pregunta": "La C/ Siglo XX sabrías decir donde queda:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 278,
+            "opcion1": "En El Llano.",
+            "opcion2": "En Pumarín.",
+            "opcion3": "En La Bohemia.",
+            "opcion4": "En Roces.",
+            "pregunta": "El Albergue Covadonga está:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 279,
+            "opcion1": "Marie Curie.",
+            "opcion2": "Camino de la Juveria.",
+            "opcion3": "Camino del Pontón.",
+            "opcion4": "La Braña.",
+            "pregunta": "El Polígono de Maximino Vega está en:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 280,
+            "opcion1": "Los familiares de los titulares fallecidos.",
+            "opcion2": "Las personas jurídicas que la obtengan mediante concurso libre.",
+            "opcion3": "Los conductores de Auto-Taxi con antigüedad superior a un año.",
+            "opcion4": "Las personas naturales que la obtengan mediante concurso libre.",
+            "pregunta": "¿Quién tiene derecho a solicitar licencia de auto-Taxi?",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 281,
+            "opcion1": "En Viesques.",
+            "opcion2": "En el Coto.",
+            "opcion3": "En la Calzada.",
+            "opcion4": "En Montevil.",
+            "pregunta": "¿Dónde está la Plaza de Campomanes?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 282,
+            "opcion1": "De la carretera del Obispo a San Juan.",
+            "opcion2": "De la calle San Juan a carretera del Obispo.",
+            "opcion3": "Es de doble sentido.",
+            "opcion4": "Son todas falsas ya que es peatonal.",
+            "pregunta": "La calle Horacio Fernández Iguanzo, ¿de qué calle a qué calle va?",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 283,
+            "opcion1": "La Calzada.",
+            "opcion2": "Pumarín.",
+            "opcion3": "Contrueces.",
+            "opcion4": "Ese colegio no existe en Gijón.",
+            "pregunta": "Si quieres ir al colegio Noega, ¿a qué barrio debes dirigirte?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 284,
+            "opcion1": "No tiene acceso, es peatonal.",
+            "opcion2": "Aunque es peatonal tiene acceso de servicios y garajes por la calle Manuel Llaneza.",
+            "opcion3": "Aunque es peatonal tiene acceso de servicios y garajes por la calle Francisco de Paula.",
+            "opcion4": "Las respuestas B y C son correctas.",
+            "pregunta": "¿Por qué calle tiene acceso la calle Juan XXIII?",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 285,
+            "opcion1": "Calle Roncal.",
+            "opcion2": "Calle Andalucía.",
+            "opcion3": "Avenida Gaspar García Laviana.",
+            "opcion4": "Por ninguna de estas.",
+            "pregunta": "Si tienes que entrar en la calle El Bierzo, ¿por cuál de estas lo harías?",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 286,
+            "opcion1": "Calle Santa Eladia.",
+            "opcion2": "Calle Río Nervión.",
+            "opcion3": "Calle Antolín de la Fuente Clá.",
+            "opcion4": "Por todas.",
+            "pregunta": "Si vas circulando por la carretera del Obispo dirección Contrueces, ¿por cuál de estas calles puedes hacer giro a la izquierda?",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 287,
+            "opcion1": "Montevil.",
+            "opcion2": "Roces.",
+            "opcion3": "La Arena.",
+            "opcion4": "Viesques.",
+            "pregunta": "Un cliente te pide que le lleves a la calle Compositor Facundo Viña, ¿a qué barrio te diriges?",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 288,
+            "opcion1": "Va de poeta Angel Gonzalez a Anselmo Solar.",
+            "opcion2": "Es de doble sentido.",
+            "opcion3": "Va de Anselmo Solar a Poeta Angel Gonzalez.",
+            "opcion4": "No existe en Gijón.",
+            "pregunta": "¿Cuál es el sentido de circulación de la calle Constantino Suárez 'El Españolito'?",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 289,
+            "opcion1": "Plaza del Ampurdan.",
+            "opcion2": "Universidad Laboral.",
+            "opcion3": "Campus de Viesques.",
+            "opcion4": "Plaza de la República.",
+            "pregunta": "Un cliente te pide llevarlo al Conservatorio de Música, ¿Dónde está?",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 290,
+            "opcion1": "Calle Ribagorza.",
+            "opcion2": "Calle Juan Alvargonzalez.",
+            "opcion3": "'A' y 'B' son correctas.",
+            "opcion4": "Es peatonal.",
+            "pregunta": "La calle Siglo XX tiene acceso por",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 291,
+            "opcion1": "La Calzada.",
+            "opcion2": "Roces.",
+            "opcion3": "Tremañes.",
+            "opcion4": "No existe en Gijón.",
+            "pregunta": "La calle de Marie Curie, se encuentra en:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 292,
+            "opcion1": "La Calzada.",
+            "opcion2": "La Camocha.",
+            "opcion3": "Montevil.",
+            "opcion4": "No existe.",
+            "pregunta": "La plaza de Institución Libre de Enseñanza, se encuentra en:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 293,
+            "opcion1": "San Bernardo a calle Instituto.",
+            "opcion2": "Calle Instituto a calle San Bernardo.",
+            "opcion3": "Tiene doble sentido.",
+            "opcion4": "Es peatonal.",
+            "pregunta": "La calle Martinez Marina va desde……….a……..:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 294,
+            "opcion1": "Entrada por Marques de Casa Valdes y acaba en Carretera de la Costa.",
+            "opcion2": "Entrada por Marques de Casa Valdes y acaba en calle Uría.",
+            "opcion3": "Tiene entrada por Uría y acaba en carretera de la Costa.",
+            "opcion4": "Entrada por Uría y acaba en Marques de Casa Valdes.",
+            "pregunta": "La calle Garcilaso de la Vega tiene:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 295,
+            "opcion1": "Calle Espronceda.",
+            "opcion2": "Calle Echegaray.",
+            "opcion3": "Avenida de Schult.",
+            "opcion4": "Plaza de Compostela.",
+            "pregunta": "La calle Larra tiene su entrada por:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 296,
+            "opcion1": "Plaza de Compostela.",
+            "opcion2": "Plaza de la Institución Libre de Enseñanza.",
+            "opcion3": "Plaza de Toros.",
+            "opcion4": "Plaza Manuel del Busto.",
+            "pregunta": "La Avenida Pablo Iglesias, tiene su fin al llegar a:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 297,
+            "opcion1": "Entrada por la calle Progreso y acaba en calle La Paz.",
+            "opcion2": "Entrada por la calle La Paz y acaba en Francisco Carantoña.",
+            "opcion3": "Entrada por Francisco Carantoña y acaba en la calle La Paz.",
+            "opcion4": "Es peatonal.",
+            "pregunta": "La calle Francisco Ferrer y Guardia, tiene:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 298,
+            "opcion1": "Entre plaza San Miguel y Marques de Casa Valdes.",
+            "opcion2": "Entre Casimiro Velasco y La Merced.",
+            "opcion3": "Entre Casimiro Velasco y Covadonga.",
+            "opcion4": "Entre Covadonga y plaza San Miguel.",
+            "pregunta": "La calle Eusebio Miranda está en:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 299,
+            "opcion1": "Montevil.",
+            "opcion2": "El Coto.",
+            "opcion3": "El Llano.",
+            "opcion4": "Viesques.",
+            "pregunta": "La calle Alburquerque, está en:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 300,
+            "opcion1": "Entre Ezcurdia y Torcuato Fernández Miranda.",
+            "opcion2": "Entre Ezcurdia y Avenida del Jardín Botánico.",
+            "opcion3": "Entre Ezcurdia y Emilio Tuya.",
+            "opcion4": "Es peatonal.",
+            "pregunta": "La calle Paris, está en:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 301,
+            "opcion1": "Entre San José y Pérez de Ayala.",
+            "opcion2": "Entre Eleuterio Quintanilla y Juan Alvargonzalez.",
+            "opcion3": "Entre Pérez de Ayala y Eleuterio Quintanilla.",
+            "opcion4": "Entre Río de Oro y Leoncio Suárez.",
+            "pregunta": "La calle Custodia, está en:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 302,
+            "opcion1": "Entre Ana Maria y Avenida Gaspar García Laviana.",
+            "opcion2": "Entre Hermanos Felgueroso y Antonio Cachero.",
+            "opcion3": "Entre Ana Maria y Constantino.",
+            "opcion4": "Entre Hermanos Felgueroso y Leon XIII.",
+            "pregunta": "La calle Niño Jesús, está en:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 303,
+            "opcion1": "Juan Alvargonzalez.",
+            "opcion2": "Eleuterio Quintanilla.",
+            "opcion3": "Panadés.",
+            "opcion4": "No existe.",
+            "pregunta": "La calle Alcalá, tiene su entrada por:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 304,
+            "opcion1": "Tiene entrada por Hermanos Felgueroso.",
+            "opcion2": "Está en Cimadevilla.",
+            "opcion3": "Tiene entrada por Leon XIII.",
+            "opcion4": "No existe esa calle en Gijón.",
+            "pregunta": "La calle Coronel Pinilla:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 305,
+            "opcion1": "Va desde Plaza San Agustin a Casimiro Velasco.",
+            "opcion2": "Va desde Menéndez Valdés hasta Capua.",
+            "opcion3": "Va desde Menéndez Valdés hasta La Muralla.",
+            "opcion4": "Es una travesía peatonal que va al Ayuntamiento.",
+            "pregunta": "La calle Travesía del Convento:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 306,
+            "opcion1": "Va desde la calle Uría hasta carretera de la Costa.",
+            "opcion2": "Va desde Marques de Casa Valdes hasta carretera de la Costa.",
+            "opcion3": "Va desde Marques de Casa Valdes hasta Enrique Martínez.",
+            "opcion4": "Es peatonal.",
+            "pregunta": "La calle Luciano Castañon:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 307,
+            "opcion1": "Va desde Enrique Martínez hasta Alarcón.",
+            "opcion2": "Va desde Carlos Marx hasta Puerto La Cubilla.",
+            "opcion3": "Es de doble sentido entre Puerto La Cubilla y Carlos Marx.",
+            "opcion4": "Va desde Alarcón hasta Enrique Martínez.",
+            "pregunta": "La calle El Entrego:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 308,
+            "opcion1": "Entre Avenida Constitución y Magnus Blikstad.",
+            "opcion2": "Entre Avenida Jardín Botánico y Justo del Castillo.",
+            "opcion3": "Entre Torcuato Fernández Miranda y Avenida del Molinón.",
+            "opcion4": "En el polígono Bankunión 2 de Tremañes.",
+            "pregunta": "¿Dónde ubicas la calle Luís Adaro Ruiz-Falcó?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 309,
+            "opcion1": "Iré por la calle Fernando Vela.",
+            "opcion2": "Iré por la calle Ana María.",
+            "opcion3": "Iré por la calle Valencia.",
+            "opcion4": "Iré por la calle Extremadura.",
+            "pregunta": "Para acceder a la calle Benito Conde:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 310,
+            "opcion1": "Desde calle Bélgica a calle San Manuel.",
+            "opcion2": "Desde calle Bélgica a Avenida Schultz.",
+            "opcion3": "Desde Avenida Schultz a San Nicolás.",
+            "opcion4": "Desde San Nicolás a Avenida Schultz.",
+            "pregunta": "La calle Maria Dolores va:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 311,
+            "opcion1": "Cataluña y salida por Severo Ochoa.",
+            "opcion2": "Severo Ochoa y salida por Cataluña.",
+            "opcion3": "Es de doble dirección entre Alava y Cataluña.",
+            "opcion4": "Es de doble dirección entre Severo Ochoa y Cataluña.",
+            "pregunta": "La calle Murcia tiene su entrada por:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 312,
+            "opcion1": "La Camocha.",
+            "opcion2": "Roces.",
+            "opcion3": "Montevil.",
+            "opcion4": "Santa Bárbara.",
+            "pregunta": "La calle Vicente Aleixandre pertenece al barrio de:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 313,
+            "opcion1": "Granda.",
+            "opcion2": "Cabueñes.",
+            "opcion3": "Somio.",
+            "opcion4": "Deva.",
+            "pregunta": "¿Dónde ubicas el camino de Fojanes?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 314,
+            "opcion1": "Celestino Junquera.",
+            "opcion2": "Manuel Junquera.",
+            "opcion3": "Pintor Marola.",
+            "opcion4": "Carreño Miranda.",
+            "pregunta": "¿Cuál de estas calles pertenece al barrio del Coto?",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 315,
+            "opcion1": "Anselmo Solar.",
+            "opcion2": "Puerto Vallarta.",
+            "opcion3": "París.",
+            "opcion4": "Niort.",
+            "pregunta": "Una de éstas calles no pertenece al barrio de Viesques:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 316,
+            "opcion1": "Severo Ochoa-Velázquez-Badajoz y Río Eo.",
+            "opcion2": "Severo Ochoa-Ramón Areces-Badajoz y Río Eo.",
+            "opcion3": "Severo Ochoa-Ramón Areces-Alava y Río Eo.",
+            "opcion4": "Severo Ochoa-Ramón Areces-Alava y Río de Oro.",
+            "pregunta": "El Centro Municipal Gijón Sur está rodeado por las calles:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 317,
+            "opcion1": "La Calzada.",
+            "opcion2": "Contrueces.",
+            "opcion3": "Roces.",
+            "opcion4": "Montevil.",
+            "pregunta": "La plaza de Las Brigadas Internacionales, pertenece al barrio de:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 318,
+            "opcion1": "Sol.",
+            "opcion2": "Santín.",
+            "opcion3": "Dr. Avelino González.",
+            "opcion4": "Gamboa.",
+            "pregunta": "¿Cuál de estas calles tiene entrada por la calle Jove y Hevia y salida a Orán?",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 319,
+            "opcion1": "Es de doble dirección.",
+            "opcion2": "Va de Río de Oro hacia Avenida del Llano.",
+            "opcion3": "Va de la Avenida del Llano hacia Río de Oro.",
+            "opcion4": "Es peatonal entre Río de Oro y avenida del Llano.",
+            "pregunta": "¿Qué sentido de circulación, tiene la calle Rosario Trabanco?",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 320,
+            "opcion1": "Roces.",
+            "opcion2": "La Camocha.",
+            "opcion3": "Cabueñes.",
+            "opcion4": "Somio.",
+            "pregunta": "¿Dónde ubicas la Urbanización 'Los Pedregales'?",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 321,
+            "opcion1": "Es de doble sentido entre Avenida Schultz y Río de Oro.",
+            "opcion2": "Es de un sentido Río de Oro hacia Avenida Schultz.",
+            "opcion3": "Es de un sentido de Avenida Schultz hasta Leoncio Suarez.",
+            "opcion4": "Es de un sentido de Avenida Schultz hasta Río de Oro.",
+            "pregunta": "La calle Pedro Pablo:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 322,
+            "opcion1": "Calle Badajoz.",
+            "opcion2": "Calle Pablo Picasso.",
+            "opcion3": "Calle Pablo Neruda.",
+            "opcion4": "Calle Ramón Areces.",
+            "pregunta": "La calle Eulalia del Llano y Noriega, tiene su entrada circulando por:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 323,
+            "opcion1": "Tiene su entrada por Río Nalón y acaba en Río Nervión.",
+            "opcion2": "Tiene su entrada por Río Nervión y acaba en Río Nalón.",
+            "opcion3": "Tiene su entrada por Río Nalón y acaba en Río Sella.",
+            "opcion4": "Ninguna de las anteriores es correcta.",
+            "pregunta": "La calle Río Sil:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 324,
+            "opcion1": "Zamora.",
+            "opcion2": "Navarra.",
+            "opcion3": "Luciano Castañon.",
+            "opcion4": "Ruiz Gomez.",
+            "pregunta": "¿Cuál de estas calles comienza en Marques de Casa Valdés y acaba en carretera de la Costa?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 325,
+            "opcion1": "La Arena.",
+            "opcion2": "Los Campos.",
+            "opcion3": "El Coto.",
+            "opcion4": "Somio.",
+            "pregunta": "Si nos encontramos en la calle Evaristo Valle, estaremos en:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 326,
+            "opcion1": "Los Pedregales.",
+            "opcion2": "Tineo.",
+            "opcion3": "Llaranes.",
+            "opcion4": "Adaro.",
+            "pregunta": "¿Cuál de estas calles tiene entrada por Magnus Blikstad y sale a Constitución?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 327,
+            "opcion1": "Va desde la calle Ceriñola hasta la calle Zaragoza.",
+            "opcion2": "Está entre Daoiz y Velarde e Independencia.",
+            "opcion3": "Va desde Zaragoza hasta Ceriñola.",
+            "opcion4": "Se entra por Ceriñola y no tiene salida.",
+            "pregunta": "La calle Lepanto:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 328,
+            "opcion1": "Las Ursulinas.",
+            "opcion2": "Manuel Martínez Blanco.",
+            "opcion3": "La Milagrosa.",
+            "opcion4": "Noega.",
+            "pregunta": "¿Qué colegio de los siguientes nos encontramos en la calle Niño Jesús?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 329,
+            "opcion1": "Tiene entrada por Ramiro I hasta Balbín.",
+            "opcion2": "Tiene entrada por Alfonso Camín hasta Ramiro I.",
+            "opcion3": "Tiene entrada por Alfonso Camín hasta Balbín.",
+            "opcion4": "Tiene entrada por Balbín hasta Alfonso Camín.",
+            "pregunta": "La calle Joaquín Solís:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 330,
+            "opcion1": "Tiene entrada por Marques de San Esteban.",
+            "opcion2": "Tiene entrada por Rodriguez San Pedro cruza Marques de San Esteban y acaba en Linares Rivas.",
+            "opcion3": "Tiene entrada por Linares Rivas y acaba en Rodriguez San Pedro.",
+            "opcion4": "Ninguna es correcta.",
+            "pregunta": "La calle Zamora:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 331,
+            "opcion1": "La calle de Las Industrias.",
+            "opcion2": "La calle Venezuela.",
+            "opcion3": "Es peatonal.",
+            "opcion4": "No existe en Gijón.",
+            "pregunta": "La calle Méjico, tiene su entrada por:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 332,
+            "opcion1": "En Viesques.",
+            "opcion2": "En el Coto.",
+            "opcion3": "La Calzada-Cerillero.",
+            "opcion4": "No es una calle de Gijón.",
+            "pregunta": "La calle Orestes Menéndez, en qué barrio está:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 333,
+            "opcion1": "En la rotonda de Foro.",
+            "opcion2": "En Viesques.",
+            "opcion3": "En el Coto.",
+            "opcion4": "En la playa del Arbeyal.",
+            "pregunta": "La estatua del Obelisco, se encuentra en:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 334,
+            "opcion1": "Montevil.",
+            "opcion2": "Viesques.",
+            "opcion3": "El Coto.",
+            "opcion4": "La Arena.",
+            "pregunta": "La calle Azorín se encuentra en el barrio de:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 335,
+            "opcion1": "Zona de Viesques.",
+            "opcion2": "Zona de Pumarín.",
+            "opcion3": "Zona Centro.",
+            "opcion4": "Zona Hipercor.",
+            "pregunta": "La calle '27 de Diciembre', donde está:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 336,
+            "opcion1": "No existe en Gijón.",
+            "opcion2": "Es peatonal.",
+            "opcion3": "Está en el Coto.",
+            "opcion4": "Está en Viesques.",
+            "pregunta": "La calle 'La Casilla', es:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 337,
+            "opcion1": "Entre Ramón y Cajal y Granados.",
+            "opcion2": "Entre Ramón y Cajal y Usandizaga.",
+            "opcion3": "Entre Ramón y Cajal y Teniente Fournier.",
+            "opcion4": "Entre Ramón y Cajal y Suárez Valdés.",
+            "pregunta": "La calle Balmes, entre qué calles está:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 338,
+            "opcion1": "Paseo del Muro.",
+            "opcion2": "Ezcurdia.",
+            "opcion3": "San Juan del Valles.",
+            "opcion4": "Galileo Galilei.",
+            "pregunta": "Me sabes decir dónde se encuentra el Hotel Villa de Gijón:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 340,
+            "opcion1": "Juan de la Cierva.",
+            "opcion2": "Grahan Bell.",
+            "opcion3": "Altamira.",
+            "opcion4": "Alejandro Casona.",
+            "pregunta": "¿Cuál de estas calles está en el Polígono de Mora Garay?",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 341,
+            "opcion1": "Poeta Alfonso Camín.",
+            "opcion2": "Calle Juan Alvargonzalez.",
+            "opcion3": "Avenida del Llano.",
+            "opcion4": "Calle Orán.",
+            "pregunta": "El Centro de Salud de El Llano se encuentra en la calle:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 343,
+            "opcion1": "En Montevil.",
+            "opcion2": "El Coto.",
+            "opcion3": "El Natahoyo.",
+            "opcion4": "Jove.",
+            "pregunta": "En qué lugar se ubica la Plaza del Padre Máximo González:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 344,
+            "opcion1": "Calle Álvarez Garaya.",
+            "opcion2": "Calle Llanes.",
+            "opcion3": "La Camocha (mercado).",
+            "opcion4": "Calle Marqués de Casa Valdés.",
+            "pregunta": "Di en qué calle no existe una parada de Auto-Taxi:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 345,
+            "opcion1": "Paseo Doctor Fleming.",
+            "opcion2": "Avenida José García Bernardo.",
+            "opcion3": "Avenida del Molinón.",
+            "opcion4": "Avenida Profesor Pérez Pimentel.",
+            "pregunta": "¿A qué dirección llevaremos a un cliente que quiere ir al Palacio de los Deportes?",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 346,
+            "opcion1": "Al Monte Deva.",
+            "opcion2": "A la Escuela Superior de Marina Civil.",
+            "opcion3": "A la Campa de Torres.",
+            "opcion4": "A la Comandancia Militar de Marina.",
+            "pregunta": "¿A dónde trasladaremos a un cliente que nos pide ir al Planetario?",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 347,
+            "opcion1": "Paseo del Muro.",
+            "opcion2": "Plaza de Europa.",
+            "opcion3": "Plaza del Marqués.",
+            "opcion4": "Plaza de San Miguel.",
+            "pregunta": "¿Cuál es la dirección del Museo Palacio Revillagigedo?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 348,
+            "opcion1": "Leopoldo Alas.",
+            "opcion2": "Calle San Luis.",
+            "opcion3": "Plaza del Padre Máximo González.",
+            "opcion4": "Calle Irene Fernández Pereda.",
+            "pregunta": "El cuartel de la Guardia Civil está situado en la Calle:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 349,
+            "opcion1": "Calle Instituto.",
+            "opcion2": "Calle Los Moros.",
+            "opcion3": "Recinto de la Feria de Muestras.",
+            "opcion4": "Calle San Bernardo.",
+            "pregunta": "¿A dónde se dirigirá usted si le solicitan ir a la Cámara Oficial de Comercio, Industria y Navegación?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 350,
+            "opcion1": "Calle Mariano Pola.",
+            "opcion2": "Campo Valdés.",
+            "opcion3": "Calle Claudio Alvargonzález.",
+            "opcion4": "Puerto del Musel.",
+            "pregunta": "Señale la calle donde está el Puerto deportivo:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 351,
+            "opcion1": "Pumarín.",
+            "opcion2": "Cimadevilla.",
+            "opcion3": "Cabueñes.",
+            "opcion4": "La Providencia.",
+            "pregunta": "¿En qué zona se encuentra el parque del Cabo San Lorenzo?",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 352,
+            "opcion1": "Calle Canga Argüelles.",
+            "opcion2": "Calle Ezcurdia.",
+            "opcion3": "Calle Doctor Aquilino Hurle.",
+            "opcion4": "Calle Conde Toreno.",
+            "pregunta": "Indique la calle en que se encuentra el Centro Municipal Integrado de la Arena:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 353,
+            "opcion1": "Santurio.",
+            "opcion2": "Bernueces.",
+            "opcion3": "Somió.",
+            "opcion4": "Cabueñes.",
+            "pregunta": "¿A qué zona trasladaríamos a un cliente que nos solicita ir al Parque del Rincón?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 354,
+            "opcion1": "La calle Corrida y la calle Libertad.",
+            "opcion2": "La calle Río Eo y la calle Ramón Areces.",
+            "opcion3": "Entre la carretera de la Carbonera y la avenida del Llano.",
+            "opcion4": "La avenida del Llano y la calle San José.",
+            "pregunta": "La calle Pintor Manuel Medina se encuentra en:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 355,
+            "opcion1": "En la parroquia de Somió.",
+            "opcion2": "En la parroquia de Cabueñes.",
+            "opcion3": "En la parroquia de Deva.",
+            "opcion4": "En la parroquia de Baldornón.",
+            "pregunta": "¿Dónde está el Jardín Botánico?",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 356,
+            "opcion1": "Calle Carlos Beltrán.",
+            "opcion2": "Calle Enrique III.",
+            "opcion3": "Calle Carlos III.",
+            "opcion4": "Calle Pedro Menéndez.",
+            "pregunta": "Señalar cuál de las siguientes calles no es peatonal:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 357,
+            "opcion1": "De doble sentido de circulación.",
+            "opcion2": "Peatonal.",
+            "opcion3": "Sentido único en dirección de calle Ezcurdia a avenida Torcuato Fernández Miranda.",
+            "opcion4": "Sentido único en dirección de avenida Torcuato Fernández Miranda a calle Ezcurdia.",
+            "pregunta": "La calle Pintor Martínez Abades es:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 358,
+            "opcion1": "Viesques.",
+            "opcion2": "Montevil.",
+            "opcion3": "Nuevo Gijón.",
+            "opcion4": "El Llano.",
+            "pregunta": "La calle Muros de Galicia está en la zona de:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 359,
+            "opcion1": "Avenida del Llano.",
+            "opcion2": "Avenida de Manuel Llaneza.",
+            "opcion3": "Avenida de Príncipe de Asturias.",
+            "opcion4": "Avenida de la Constitución.",
+            "pregunta": "¿Dónde se encuentra ubicada la sede de la Empresa Municipal de Aguas?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 360,
+            "opcion1": "Puerto del Musel.",
+            "opcion2": "Calle Claudio Alvargonzalez.",
+            "opcion3": "Avenida José García Bernardo.",
+            "opcion4": "Veranes.",
+            "pregunta": "¿Dónde está emplazado el Centro de Seguridad Marítima Integral Jovellanos?",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 361,
+            "opcion1": "Plaza Mayor.",
+            "opcion2": "Calle Instituto.",
+            "opcion3": "Paseo del Doctor Fleming.",
+            "opcion4": "Avenida Profesores Pérez Pimentel.",
+            "pregunta": "¿Dónde está situado el Palacio de Congresos?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 362,
+            "opcion1": "Contrueces.",
+            "opcion2": "Llano.",
+            "opcion3": "La Calzada.",
+            "opcion4": "Pumarín.",
+            "pregunta": "¿Me sabrías decir dónde está la calle María Zambrano?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 363,
+            "opcion1": "Entre Jovellanos y Capua.",
+            "opcion2": "Entre Cabrales y Jovellanos.",
+            "opcion3": "Es el paseo de la Playa.",
+            "opcion4": "Entre la Calle La Playa y Premio Real.",
+            "pregunta": "¿Me sabrías delimitar la calle 'El Paseo del Muro'?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 364,
+            "opcion1": "Doble sentido de circulación.",
+            "opcion2": "Sentido único.",
+            "opcion3": "Es peatonal.",
+            "opcion4": "No existe en Gijón.",
+            "pregunta": "La calle Santa Lucia es:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 365,
+            "opcion1": "Jove.",
+            "opcion2": "Pumarín.",
+            "opcion3": "Llano.",
+            "opcion4": "Tremañes.",
+            "pregunta": "La calle Los Pinos se encuentra en:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 366,
+            "opcion1": "Jove.",
+            "opcion2": "La Calzada.",
+            "opcion3": "Natahoyo.",
+            "opcion4": "Moreda.",
+            "pregunta": "La calle Rosalía de Castro se encuentra en:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 367,
+            "opcion1": "En Viesques.",
+            "opcion2": "En el Nuevo Gijón.",
+            "opcion3": "En Moreda.",
+            "opcion4": "La Calzada.",
+            "pregunta": "Ruta del Alba, ¿dónde se encuentra esta calle?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 368,
+            "opcion1": "En Antolín de la Fuente Clá, y Oran.",
+            "opcion2": "Doctor Avelino González, y González Mallada.",
+            "opcion3": "Piedrafita y Matemático Pedralles.",
+            "opcion4": "No hay cooperativas de radio taxi en Gijón.",
+            "pregunta": "¿Sabrías decir dónde están las Cooperativas Radio Taxi Gijón?",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 369,
+            "opcion1": "En Viesques.",
+            "opcion2": "En el Coto.",
+            "opcion3": "En la Calzada.",
+            "opcion4": "En Montevil.",
+            "pregunta": "¿Dónde está la calle Arquitecto Mariano Marín Magallán?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 370,
+            "opcion1": "Poeta Alfonso Camín.",
+            "opcion2": "Juan Alvargonzalez.",
+            "opcion3": "Avenida del Llano.",
+            "opcion4": "Calle Orán.",
+            "pregunta": "El Centro de Salud de El Llano se encuentra en:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 371,
+            "opcion1": "Doble sentido de circulación.",
+            "opcion2": "Sentido único.",
+            "opcion3": "Es peatonal.",
+            "opcion4": "No existe en Gijón.",
+            "pregunta": "La calle Santa Lucia es:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 372,
+            "opcion1": "La Calzada.",
+            "opcion2": "Viesques.",
+            "opcion3": "El Cerillero.",
+            "opcion4": "El Coto.",
+            "pregunta": "¿Dónde estaría ubicada la calle Solar?",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 373,
+            "opcion1": "Simón González.",
+            "opcion2": "Manuel R. Álvarez.",
+            "opcion3": "Los Andes.",
+            "opcion4": "Oriental.",
+            "pregunta": "El ambulatorio de la Calzada estaría en:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 374,
+            "opcion1": "Juan Carlos I.",
+            "opcion2": "Calle Dos de Mayo.",
+            "opcion3": "Camino del Cortijo.",
+            "opcion4": "Ramón Menéndez Pidal.",
+            "pregunta": "La entrada por urgencias del ambulatorio del Natahoyo estaría en:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 375,
+            "opcion1": "Simón Bolívar.",
+            "opcion2": "Simón González.",
+            "opcion3": "Juan Carlos I.",
+            "opcion4": "Las Industrias.",
+            "pregunta": "La piscina municipal de la Calzada tiene su entrada por:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 376,
+            "opcion1": "La Calzada.",
+            "opcion2": "El Natahoyo.",
+            "opcion3": "Jove.",
+            "opcion4": "Nuevo Gijón.",
+            "pregunta": "La calle Bailen estaría situada en la zona de:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 377,
+            "opcion1": "En el Musel (torre de control).",
+            "opcion2": "Muelle de Oriente.",
+            "opcion3": "Claudio Alvargonzalez.",
+            "opcion4": "Juan Alvargonzalez.",
+            "pregunta": "La Capitanía Marítima estaría en:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 378,
+            "opcion1": "El Llano.",
+            "opcion2": "La Milagrosa.",
+            "opcion3": "El Cerillero.",
+            "opcion4": "La Calzada.",
+            "pregunta": "Si quisiéramos ir a la calle Alonso Quintanilla iríamos a la zona de:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 379,
+            "opcion1": "En el Musel.",
+            "opcion2": "Tirso de Molina.",
+            "opcion3": "Usandizaga.",
+            "opcion4": "General Searez Valdés.",
+            "pregunta": "La residencia de oficiales estaría en:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 380,
+            "opcion1": "Simón González.",
+            "opcion2": "Simón Bolívar.",
+            "opcion3": "Juan Carlos I.",
+            "opcion4": "Oriental.",
+            "pregunta": "El ambulatorio de Salud Mental de la Calzada estará en:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 381,
+            "opcion1": "Calle Los Moros.",
+            "opcion2": "Plaza del 6 de Agosto.",
+            "opcion3": "Calle Fernández Vallín.",
+            "opcion4": "Ninguna de las anteriores.",
+            "pregunta": "La Oficina Principal de Correos de Gijón está:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 382,
+            "opcion1": "Simón González y Callao.",
+            "opcion2": "Simón Bolívar y Callao.",
+            "opcion3": "Simón González, Callao, Honduras, Daniel Cerra.",
+            "opcion4": "Simón Bolívar, Callao, Honduras, Daniel Cerra.",
+            "pregunta": "La calle Cueto está entre:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 384,
+            "opcion1": "Padilla.",
+            "opcion2": "Fernández Vallín.",
+            "opcion3": "Torcuato Fernández Miranda.",
+            "opcion4": "Begoña.",
+            "pregunta": "El Hotel Hernán Cortés estaría en:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 385,
+            "opcion1": "Sí.",
+            "opcion2": "No.",
+            "opcion3": "Es peatonal.",
+            "opcion4": "Son paralelas.",
+            "pregunta": "Desde la calle Álava podremos entrar a la calle Murcia:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 387,
+            "opcion1": "Campo Valdés.",
+            "opcion2": "Palacio Valdés.",
+            "opcion3": "Calle Cabrales s/n.",
+            "opcion4": "Quijote.",
+            "pregunta": "El colegio Santo Ángel estará en:",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 388,
+            "opcion1": "Montevil.",
+            "opcion2": "Viesques.",
+            "opcion3": "Cimadevilla.",
+            "opcion4": "Ninguna de las anteriores.",
+            "pregunta": "La calle Les Maestrines se encuentra en:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 390,
+            "opcion1": "Calle Infiesto.",
+            "opcion2": "Pin de Pria.",
+            "opcion3": "Juanin de Mieres.",
+            "opcion4": "Magnus Blistadk.",
+            "pregunta": "El Centro de Salud de Laviada está en:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 391,
+            "opcion1": "Plaza de Europa s/n.",
+            "opcion2": "Munuza.",
+            "opcion3": "Marqués de San Esteban.",
+            "opcion4": "Anselmo Cifuentes.",
+            "pregunta": "Hacienda Estatal Pública, ¿dónde se encuentra?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 392,
+            "opcion1": "Calle Begoña.",
+            "opcion2": "Paseo de Begoña.",
+            "opcion3": "Casimiro Velasco.",
+            "opcion4": "Calle Covadonga.",
+            "pregunta": "El Teatro Jovellanos, ¿dónde tiene la entrada principal?",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 393,
+            "opcion1": "Contracay y San Bernardo.",
+            "opcion2": "Instituto y San Bernardo.",
+            "opcion3": "La Merced y San Bernardo.",
+            "opcion4": "Rosalía de Castro y Laboratorios.",
+            "pregunta": "La calle Martínez Marina se encuentra entre:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 394,
+            "opcion1": "Muelle de Rendiello.",
+            "opcion2": "Centro de Seguridad Marítima Integral Jovellanos.",
+            "opcion3": "Campus de Viesques.",
+            "opcion4": "Avenida Príncipe de Asturias.",
+            "pregunta": "La Escuela Náutico Pesquera está situada en:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 395,
+            "opcion1": "Avenida de la Costa a Marqués de Casa Valdés.",
+            "opcion2": "Evaristo Valle a avenida de la Costa.",
+            "opcion3": "Marqués de Casa Valdés a avenida de la Costa.",
+            "opcion4": "Marqués de Casa Valdés a calle Uría.",
+            "pregunta": "La calle Navarra, tiene su entrada por:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 396,
+            "opcion1": "Manso, Aguado, Emilio Tuya, Ezcurdia.",
+            "opcion2": "Manso, Aguado, Emilio Tuya, Ezcurdia, Canga Argüelles.",
+            "opcion3": "Manso, Aguado, Emilio Tuya, Canga Argüelles.",
+            "opcion4": "Manso, Aguado, Emilio Tuya, Canga Argüelles, Doctor Hurle.",
+            "pregunta": "El Palacio de los Deportes de la Arena, ¿sabías decirme las calles que lo rodean?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 397,
+            "opcion1": "Rufo Rendueles.",
+            "opcion2": "Plaza Mayor.",
+            "opcion3": "Manso.",
+            "opcion4": "Aguado.",
+            "pregunta": "El Hotel Príncipe de Asturias, tiene su entrada por:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 398,
+            "opcion1": "Cirujeda.",
+            "opcion2": "Sagrado Corazón.",
+            "opcion3": "San Francisco de Asís.",
+            "opcion4": "Quevedo y Sagrado Corazón.",
+            "pregunta": "Si circulamos por la calle Hermanos Felgueroso podemos entrar:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 399,
+            "opcion1": "De San Bernardo Hasta Garcilaso de la Vega.",
+            "opcion2": "De San Bernardo Hasta Celestino Junquera.",
+            "opcion3": "De San Bernardo Hasta Santa Doradia.",
+            "opcion4": "De San Bernardo Hasta Fernando Vollamil.",
+            "pregunta": "¿Sabías decir, dónde empieza y dónde acaba la calle Dindurra?",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 400,
+            "opcion1": "Falso.",
+            "opcion2": "Verdadero.",
+            "opcion3": "Son paralelas, nunca se cruzarían.",
+            "opcion4": "Empieza en la calle Balbín y se acaba en calle Ramiro I.",
+            "pregunta": "La calle Alegría, según el sentido de la circulación, empieza en, la calle Balbín y acaba en Poeta Alfonso Camin, ¿es verdadero o falso?",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 401,
+            "opcion1": "Sí.",
+            "opcion2": "No.",
+            "opcion3": "Son paralelas.",
+            "opcion4": "Una calle está en la zona Centro-Campos y la otra en La Calzada.",
+            "pregunta": "¿La Calle San Luis, podríamos entrar a la calle del Príncipe?",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 402,
+            "opcion1": "En Oviedo.",
+            "opcion2": "Tiene entrada por Ribagorza, y salida hacia Juan Alvargonzalez.",
+            "opcion3": "Tiene entrada por Colón, y salida a la avenida Schultz.",
+            "opcion4": "Sería continuación de la calle Roncal.",
+            "pregunta": "La calle Siglo XX, ¿sabías decir, en qué parte quedaría?",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 403,
+            "opcion1": "Conde Toreno hasta Leopoldo Alas.",
+            "opcion2": "Manuel Junquera hasta Avelino Gonzalez Mallada.",
+            "opcion3": "Desde Quevedo hasta Tirso de Molina.",
+            "opcion4": "Manuel Junquera hasta Maria Cristina.",
+            "pregunta": "La calle Esperanto iría desde:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 404,
+            "opcion1": "De la avenida de las Mestas hacia la carretera de Villaviciosa.",
+            "opcion2": "De la carretera de Villaviciosa hacia la avenida de las Mestas.",
+            "opcion3": "De la calle Ezcurdia hacia la carretera de Villaviciosa.",
+            "opcion4": "Es Peatonal.",
+            "pregunta": "¿Sabías decir si la calle Orbón, en qué sentido tiene la circulación?",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 405,
+            "opcion1": "La calle Torcuato Fernandez Miranda.",
+            "opcion2": "La Calle Ezcurdia.",
+            "opcion3": "Carretera de Villaviciosa esquina avenida la Costa.",
+            "opcion4": "La 'B' y 'C' son ciertas.",
+            "pregunta": "La calle Pintor Marola tiene la entrada por:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 406,
+            "opcion1": "Antolín de la Fuente Cla.",
+            "opcion2": "La calle San Juan.",
+            "opcion3": "Es peatonal.",
+            "opcion4": "No existe en Gijón.",
+            "pregunta": "La calle Juan Muñiz Zapico tiene su entrada por, (según el sentido de la circulación):",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 407,
+            "opcion1": "Plaza de Europa.",
+            "opcion2": "Orán.",
+            "opcion3": "Torcuato Fernández Miranda.",
+            "opcion4": "Acebal y Rato.",
+            "pregunta": "Si tenemos que llevar a un cliente al Centro de Salud del Parque, nos dirigiremos a la calle:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 408,
+            "opcion1": "No.",
+            "opcion2": "Sí.",
+            "opcion3": "Es peatonal.",
+            "opcion4": "Son paralelas.",
+            "pregunta": "Si subimos por Ramón y Cajal en dirección al cementerio de Ceares, ¿sabías decir si podemos entrar a la calle San Ignacio?",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        },
+        {
+            "id": 409,
+            "opcion1": "No.",
+            "opcion2": "Sí.",
+            "opcion3": "Es peatonal.",
+            "opcion4": "Son paralelas.",
+            "pregunta": "Si circulamos por la calle Alarcón, ¿podemos entrar a la calle Peñalba?",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 410,
+            "opcion1": "Entre avenida Constitución y Magnus Blistakd.",
+            "opcion2": "Entre Torcuato y la avenida del Molinón.",
+            "opcion3": "Es un callejón en la Eria del Piles.",
+            "opcion4": "Es la que sigue después de la calle Los Evaristos.",
+            "pregunta": "La calle Luis Adaro Ruiz Falcó, estaría ubicada en la zona de:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 411,
+            "opcion1": "Es peatonal y esta en Cimadevilla.",
+            "opcion2": "Tiene entrada y salida al paseo del Doctor Fleming.",
+            "opcion3": "Tiene entrada y salida a la avenida del Molinón.",
+            "opcion4": "No existe.",
+            "pregunta": "La calle Rocaford estará:",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 412,
+            "opcion1": "Está, entre la calle Los Andes y la salida a calle Cuba esquina a Fernando Poo.",
+            "opcion2": "Es una perpendicular a la calle Móstoles.",
+            "opcion3": "Es peatonal.",
+            "opcion4": "No existe en Gijón.",
+            "pregunta": "¿Sabías situar la calle América?",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 413,
+            "opcion1": "La Calzada.",
+            "opcion2": "Tremañes.",
+            "opcion3": "Nuevo Gijón.",
+            "opcion4": "No existe.",
+            "pregunta": "Si quisiera dirigirme a la calle La Rioja, ¿deberé ir hacia?",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 414,
+            "opcion1": "Gaspar García Laviana.",
+            "opcion2": "Roncal.",
+            "opcion3": "Andalucía.",
+            "opcion4": "Valencia.",
+            "pregunta": "La calle El Bierzo tiene entrada por:",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 415,
+            "opcion1": "San Juan del Valle.",
+            "opcion2": "Ave María.",
+            "opcion3": "Ana María.",
+            "opcion4": "María Cristina.",
+            "pregunta": "Tenemos que dejar a un cliente en la calle de Benito Conde, ¿lo haremos?",
+            "respuesta_correcta": "opcion3",
+            "tipo": "callejero"
+        },
+        {
+            "id": 416,
+            "opcion1": "No existe en Gijón.",
+            "opcion2": "Al Polígono Bankunion I.",
+            "opcion3": "Al polígono Bankunion II.",
+            "opcion4": "Al polígono Mora Garay.",
+            "pregunta": "Tenemos que llevar a un cliente a la calle de Juan de la Cierva, ¿iríamos a?",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 417,
+            "opcion1": "Por Magnus Blistakd.",
+            "opcion2": "Por avenida Portugal.",
+            "opcion3": "Por la calle Lieres.",
+            "opcion4": "Son ciertas 'A' y 'C'.",
+            "pregunta": "Si queremos ir a la calle Candás, entraremos por:",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 418,
+            "opcion1": "Por Pintor Mariano More.",
+            "opcion2": "Por Belmonte de Miranda.",
+            "opcion3": "Por Marqués de San Esteban.",
+            "opcion4": "Por Marqués de San Esteban esquina Pedro Duro.",
+            "pregunta": "La calle Joaquín Alonso Bonet, ¿sabías decir por dónde tendríamos que entrar?",
+            "respuesta_correcta": "opcion4",
+            "tipo": "callejero"
+        },
+        {
+            "id": 419,
+            "opcion1": "Calle la Fundición.",
+            "opcion2": "Calle Donato Arguelles.",
+            "opcion3": "Calle Libertad.",
+            "opcion4": "Ninguna de las anteriores.",
+            "pregunta": "La calle Jerónimo González, ¿entraríamos por?",
+            "respuesta_correcta": "opcion2",
+            "tipo": "callejero"
+        },
+        {
+            "id": 420,
+            "opcion1": "Empieza en calle San Antonio y acaba en Casimiro Velasco, teniendo un tramo que es peatonal.",
+            "opcion2": "Empieza en calle San Antonio y acaba en Celestino Junquera, teniendo un tramo que es peatonal.",
+            "opcion3": "Empieza en calle San Antonio y acaba en Jovellanos.",
+            "opcion4": "Empieza en calle Munuza y acaba en la calle Celestino Junquera.",
+            "pregunta": "La calle La Merced, ¿podríamos decir?",
+            "respuesta_correcta": "opcion1",
+            "tipo": "callejero"
+        }
+    ]
+}

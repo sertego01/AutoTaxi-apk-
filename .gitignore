@@ -1,0 +1,46 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.metadata
+build/
+ios/Flutter/flutter_export_environment.sh
+*.iml
+*.lock
+
+# Android
+/android/gradlew
+/android/gradlew.bat
+/android/local.properties
+/android/**/gradle/
+/android/**/gradlew*
+/android/**/local.properties
+
+# iOS
+/ios/**/*.mode1v3
+/ios/**/*.mode2v3
+/ios/**/*.moved-aside
+/ios/**/*.pbxuser
+/ios/**/*.perspectivev3
+/ios/**/*sync/
+/ios/**/.sconsign.dblite
+/ios/**/.tags*
+/ios/**/.vagrant/
+/ios/**/DerivedData/
+/ios/**/Icon?
+/ios/**/Pods/
+/ios/**/.symlinks/
+/ios/**/profile
+/ios/**/xcuserdata
+
+# Archivos de entorno
+.env
+*.env*
+
+# Misc
+*.log
+*.pyc
+*.swp
+.idea/
+.vscode/
